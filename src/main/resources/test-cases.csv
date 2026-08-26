@@ -1,0 +1,2001 @@
+id,name
+TC-0001,POS - sprzedaż gotówką
+TC-0002,POS - sprzedaż gotówką z rabatem
+TC-0003,POS - anulowanie sprzedaży gotówkowej
+TC-0004,POS - sprzedaż kartą płatniczą
+TC-0005,SAP - księgowanie sprzedaży gotówkowej
+TC-0006,KASA - obsługa płatności banknotami
+TC-0007,CRM - utworzenie nowego klienta
+TC-0008,CRM - aktualizacja danych klienta
+TC-0009,BLIK - płatność za zamówienie
+TC-0010,KSeF - wysłanie faktury sprzedażowej
+TC-0011,POS - sprzedaż gotówkowa
+TC-0012,POS - sprzedaż z rabatem
+TC-0013,POS - anulowanie sprzedaży
+TC-0014,POS - zwrot sprzedaży gotówkowej
+TC-0015,POS - zwrot na kartę
+TC-0016,POS - płatność BLIK
+TC-0017,POS - płatność gotówką
+TC-0018,POS - płatność kartą
+TC-0019,POS - autoryzacja płatności
+TC-0020,POS - rozliczenie płatności
+TC-0021,POS - księgowanie faktury
+TC-0022,POS - wysłanie faktury do KSeF
+TC-0023,POS - korekta faktury sprzedażowej
+TC-0024,POS - utworzenie zamówienia
+TC-0025,POS - edycja zamówienia
+TC-0026,POS - anulowanie zamówienia
+TC-0027,POS - realizacja zamówienia
+TC-0028,POS - dodanie produktu do koszyka
+TC-0029,POS - usunięcie produktu z koszyka
+TC-0030,POS - checkout zamówienia
+TC-0031,POS - utworzenie klienta
+TC-0032,POS - aktualizacja danych klienta
+TC-0033,POS - wyszukiwanie klienta
+TC-0034,POS - scalenie duplikatów klienta
+TC-0035,POS - przyjęcie towaru do magazynu
+TC-0036,POS - wydanie towaru z magazynu
+TC-0037,POS - korekta stanu magazynowego
+TC-0038,POS - awizacja dostawy
+TC-0039,POS - potwierdzenie dostawy
+TC-0040,POS - opóźniona dostawa
+TC-0041,POS - logowanie użytkownika
+TC-0042,POS - reset hasła
+TC-0043,POS - blokada konta użytkownika
+TC-0044,POS - nadanie uprawnień
+TC-0045,POS - odebranie uprawnień
+TC-0046,POS - raport sprzedaży
+TC-0047,POS - raport płatności
+TC-0048,POS - eksport raportu
+TC-0049,POS - import danych klientów
+TC-0050,POS - eksport danych zamówień
+TC-0051,POS - synchronizacja API
+TC-0052,POS - walidacja odpowiedzi API
+TC-0053,POS - obsługa błędu API
+TC-0054,POS - reklamacja produktu
+TC-0055,POS - reklamacja płatności
+TC-0056,POS - naliczenie promocji
+TC-0057,POS - naliczenie rabatu
+TC-0058,POS - kupon rabatowy
+TC-0059,POS - integracja z SAP
+TC-0060,POS - integracja z CRM
+TC-0061,POS - integracja z bramką płatniczą
+TC-0062,KASA - sprzedaż gotówką
+TC-0063,KASA - sprzedaż gotówkowa
+TC-0064,KASA - sprzedaż kartą płatniczą
+TC-0065,KASA - sprzedaż z rabatem
+TC-0066,KASA - anulowanie sprzedaży
+TC-0067,KASA - zwrot sprzedaży gotówkowej
+TC-0068,KASA - zwrot na kartę
+TC-0069,KASA - płatność BLIK
+TC-0070,KASA - płatność gotówką
+TC-0071,KASA - płatność kartą
+TC-0072,KASA - autoryzacja płatności
+TC-0073,KASA - rozliczenie płatności
+TC-0074,KASA - księgowanie faktury
+TC-0075,KASA - wysłanie faktury do KSeF
+TC-0076,KASA - korekta faktury sprzedażowej
+TC-0077,KASA - utworzenie zamówienia
+TC-0078,KASA - edycja zamówienia
+TC-0079,KASA - anulowanie zamówienia
+TC-0080,KASA - realizacja zamówienia
+TC-0081,KASA - dodanie produktu do koszyka
+TC-0082,KASA - usunięcie produktu z koszyka
+TC-0083,KASA - checkout zamówienia
+TC-0084,KASA - utworzenie klienta
+TC-0085,KASA - aktualizacja danych klienta
+TC-0086,KASA - wyszukiwanie klienta
+TC-0087,KASA - scalenie duplikatów klienta
+TC-0088,KASA - przyjęcie towaru do magazynu
+TC-0089,KASA - wydanie towaru z magazynu
+TC-0090,KASA - korekta stanu magazynowego
+TC-0091,KASA - awizacja dostawy
+TC-0092,KASA - potwierdzenie dostawy
+TC-0093,KASA - opóźniona dostawa
+TC-0094,KASA - logowanie użytkownika
+TC-0095,KASA - reset hasła
+TC-0096,KASA - blokada konta użytkownika
+TC-0097,KASA - nadanie uprawnień
+TC-0098,KASA - odebranie uprawnień
+TC-0099,KASA - raport sprzedaży
+TC-0100,KASA - raport płatności
+TC-0101,KASA - eksport raportu
+TC-0102,KASA - import danych klientów
+TC-0103,KASA - eksport danych zamówień
+TC-0104,KASA - synchronizacja API
+TC-0105,KASA - walidacja odpowiedzi API
+TC-0106,KASA - obsługa błędu API
+TC-0107,KASA - reklamacja produktu
+TC-0108,KASA - reklamacja płatności
+TC-0109,KASA - naliczenie promocji
+TC-0110,KASA - naliczenie rabatu
+TC-0111,KASA - kupon rabatowy
+TC-0112,KASA - integracja z SAP
+TC-0113,KASA - integracja z CRM
+TC-0114,KASA - integracja z bramką płatniczą
+TC-0115,BLIK - sprzedaż gotówką
+TC-0116,BLIK - sprzedaż gotówkowa
+TC-0117,BLIK - sprzedaż kartą płatniczą
+TC-0118,BLIK - sprzedaż z rabatem
+TC-0119,BLIK - anulowanie sprzedaży
+TC-0120,BLIK - zwrot sprzedaży gotówkowej
+TC-0121,BLIK - zwrot na kartę
+TC-0122,BLIK - płatność BLIK
+TC-0123,BLIK - płatność gotówką
+TC-0124,BLIK - płatność kartą
+TC-0125,BLIK - autoryzacja płatności
+TC-0126,BLIK - rozliczenie płatności
+TC-0127,BLIK - księgowanie faktury
+TC-0128,BLIK - wysłanie faktury do KSeF
+TC-0129,BLIK - korekta faktury sprzedażowej
+TC-0130,BLIK - utworzenie zamówienia
+TC-0131,BLIK - edycja zamówienia
+TC-0132,BLIK - anulowanie zamówienia
+TC-0133,BLIK - realizacja zamówienia
+TC-0134,BLIK - dodanie produktu do koszyka
+TC-0135,BLIK - usunięcie produktu z koszyka
+TC-0136,BLIK - checkout zamówienia
+TC-0137,BLIK - utworzenie klienta
+TC-0138,BLIK - aktualizacja danych klienta
+TC-0139,BLIK - wyszukiwanie klienta
+TC-0140,BLIK - scalenie duplikatów klienta
+TC-0141,BLIK - przyjęcie towaru do magazynu
+TC-0142,BLIK - wydanie towaru z magazynu
+TC-0143,BLIK - korekta stanu magazynowego
+TC-0144,BLIK - awizacja dostawy
+TC-0145,BLIK - potwierdzenie dostawy
+TC-0146,BLIK - opóźniona dostawa
+TC-0147,BLIK - logowanie użytkownika
+TC-0148,BLIK - reset hasła
+TC-0149,BLIK - blokada konta użytkownika
+TC-0150,BLIK - nadanie uprawnień
+TC-0151,BLIK - odebranie uprawnień
+TC-0152,BLIK - raport sprzedaży
+TC-0153,BLIK - raport płatności
+TC-0154,BLIK - eksport raportu
+TC-0155,BLIK - import danych klientów
+TC-0156,BLIK - eksport danych zamówień
+TC-0157,BLIK - synchronizacja API
+TC-0158,BLIK - walidacja odpowiedzi API
+TC-0159,BLIK - obsługa błędu API
+TC-0160,BLIK - reklamacja produktu
+TC-0161,BLIK - reklamacja płatności
+TC-0162,BLIK - naliczenie promocji
+TC-0163,BLIK - naliczenie rabatu
+TC-0164,BLIK - kupon rabatowy
+TC-0165,BLIK - integracja z SAP
+TC-0166,BLIK - integracja z CRM
+TC-0167,BLIK - integracja z bramką płatniczą
+TC-0168,SAP - sprzedaż gotówką
+TC-0169,SAP - sprzedaż gotówkowa
+TC-0170,SAP - sprzedaż kartą płatniczą
+TC-0171,SAP - sprzedaż z rabatem
+TC-0172,SAP - anulowanie sprzedaży
+TC-0173,SAP - zwrot sprzedaży gotówkowej
+TC-0174,SAP - zwrot na kartę
+TC-0175,SAP - płatność BLIK
+TC-0176,SAP - płatność gotówką
+TC-0177,SAP - płatność kartą
+TC-0178,SAP - autoryzacja płatności
+TC-0179,SAP - rozliczenie płatności
+TC-0180,SAP - księgowanie faktury
+TC-0181,SAP - wysłanie faktury do KSeF
+TC-0182,SAP - korekta faktury sprzedażowej
+TC-0183,SAP - utworzenie zamówienia
+TC-0184,SAP - edycja zamówienia
+TC-0185,SAP - anulowanie zamówienia
+TC-0186,SAP - realizacja zamówienia
+TC-0187,SAP - dodanie produktu do koszyka
+TC-0188,SAP - usunięcie produktu z koszyka
+TC-0189,SAP - checkout zamówienia
+TC-0190,SAP - utworzenie klienta
+TC-0191,SAP - aktualizacja danych klienta
+TC-0192,SAP - wyszukiwanie klienta
+TC-0193,SAP - scalenie duplikatów klienta
+TC-0194,SAP - przyjęcie towaru do magazynu
+TC-0195,SAP - wydanie towaru z magazynu
+TC-0196,SAP - korekta stanu magazynowego
+TC-0197,SAP - awizacja dostawy
+TC-0198,SAP - potwierdzenie dostawy
+TC-0199,SAP - opóźniona dostawa
+TC-0200,SAP - logowanie użytkownika
+TC-0201,SAP - reset hasła
+TC-0202,SAP - blokada konta użytkownika
+TC-0203,SAP - nadanie uprawnień
+TC-0204,SAP - odebranie uprawnień
+TC-0205,SAP - raport sprzedaży
+TC-0206,SAP - raport płatności
+TC-0207,SAP - eksport raportu
+TC-0208,SAP - import danych klientów
+TC-0209,SAP - eksport danych zamówień
+TC-0210,SAP - synchronizacja API
+TC-0211,SAP - walidacja odpowiedzi API
+TC-0212,SAP - obsługa błędu API
+TC-0213,SAP - reklamacja produktu
+TC-0214,SAP - reklamacja płatności
+TC-0215,SAP - naliczenie promocji
+TC-0216,SAP - naliczenie rabatu
+TC-0217,SAP - kupon rabatowy
+TC-0218,SAP - integracja z SAP
+TC-0219,SAP - integracja z CRM
+TC-0220,SAP - integracja z bramką płatniczą
+TC-0221,CRM - sprzedaż gotówką
+TC-0222,CRM - sprzedaż gotówkowa
+TC-0223,CRM - sprzedaż kartą płatniczą
+TC-0224,CRM - sprzedaż z rabatem
+TC-0225,CRM - anulowanie sprzedaży
+TC-0226,CRM - zwrot sprzedaży gotówkowej
+TC-0227,CRM - zwrot na kartę
+TC-0228,CRM - płatność BLIK
+TC-0229,CRM - płatność gotówką
+TC-0230,CRM - płatność kartą
+TC-0231,CRM - autoryzacja płatności
+TC-0232,CRM - rozliczenie płatności
+TC-0233,CRM - księgowanie faktury
+TC-0234,CRM - wysłanie faktury do KSeF
+TC-0235,CRM - korekta faktury sprzedażowej
+TC-0236,CRM - utworzenie zamówienia
+TC-0237,CRM - edycja zamówienia
+TC-0238,CRM - anulowanie zamówienia
+TC-0239,CRM - realizacja zamówienia
+TC-0240,CRM - dodanie produktu do koszyka
+TC-0241,CRM - usunięcie produktu z koszyka
+TC-0242,CRM - checkout zamówienia
+TC-0243,CRM - utworzenie klienta
+TC-0244,CRM - wyszukiwanie klienta
+TC-0245,CRM - scalenie duplikatów klienta
+TC-0246,CRM - przyjęcie towaru do magazynu
+TC-0247,CRM - wydanie towaru z magazynu
+TC-0248,CRM - korekta stanu magazynowego
+TC-0249,CRM - awizacja dostawy
+TC-0250,CRM - potwierdzenie dostawy
+TC-0251,CRM - opóźniona dostawa
+TC-0252,CRM - logowanie użytkownika
+TC-0253,CRM - reset hasła
+TC-0254,CRM - blokada konta użytkownika
+TC-0255,CRM - nadanie uprawnień
+TC-0256,CRM - odebranie uprawnień
+TC-0257,CRM - raport sprzedaży
+TC-0258,CRM - raport płatności
+TC-0259,CRM - eksport raportu
+TC-0260,CRM - import danych klientów
+TC-0261,CRM - eksport danych zamówień
+TC-0262,CRM - synchronizacja API
+TC-0263,CRM - walidacja odpowiedzi API
+TC-0264,CRM - obsługa błędu API
+TC-0265,CRM - reklamacja produktu
+TC-0266,CRM - reklamacja płatności
+TC-0267,CRM - naliczenie promocji
+TC-0268,CRM - naliczenie rabatu
+TC-0269,CRM - kupon rabatowy
+TC-0270,CRM - integracja z SAP
+TC-0271,CRM - integracja z CRM
+TC-0272,CRM - integracja z bramką płatniczą
+TC-0273,KSeF - sprzedaż gotówką
+TC-0274,KSeF - sprzedaż gotówkowa
+TC-0275,KSeF - sprzedaż kartą płatniczą
+TC-0276,KSeF - sprzedaż z rabatem
+TC-0277,KSeF - anulowanie sprzedaży
+TC-0278,KSeF - zwrot sprzedaży gotówkowej
+TC-0279,KSeF - zwrot na kartę
+TC-0280,KSeF - płatność BLIK
+TC-0281,KSeF - płatność gotówką
+TC-0282,KSeF - płatność kartą
+TC-0283,KSeF - autoryzacja płatności
+TC-0284,KSeF - rozliczenie płatności
+TC-0285,KSeF - księgowanie faktury
+TC-0286,KSeF - wysłanie faktury do KSeF
+TC-0287,KSeF - korekta faktury sprzedażowej
+TC-0288,KSeF - utworzenie zamówienia
+TC-0289,KSeF - edycja zamówienia
+TC-0290,KSeF - anulowanie zamówienia
+TC-0291,KSeF - realizacja zamówienia
+TC-0292,KSeF - dodanie produktu do koszyka
+TC-0293,KSeF - usunięcie produktu z koszyka
+TC-0294,KSeF - checkout zamówienia
+TC-0295,KSeF - utworzenie klienta
+TC-0296,KSeF - aktualizacja danych klienta
+TC-0297,KSeF - wyszukiwanie klienta
+TC-0298,KSeF - scalenie duplikatów klienta
+TC-0299,KSeF - przyjęcie towaru do magazynu
+TC-0300,KSeF - wydanie towaru z magazynu
+TC-0301,KSeF - korekta stanu magazynowego
+TC-0302,KSeF - awizacja dostawy
+TC-0303,KSeF - potwierdzenie dostawy
+TC-0304,KSeF - opóźniona dostawa
+TC-0305,KSeF - logowanie użytkownika
+TC-0306,KSeF - reset hasła
+TC-0307,KSeF - blokada konta użytkownika
+TC-0308,KSeF - nadanie uprawnień
+TC-0309,KSeF - odebranie uprawnień
+TC-0310,KSeF - raport sprzedaży
+TC-0311,KSeF - raport płatności
+TC-0312,KSeF - eksport raportu
+TC-0313,KSeF - import danych klientów
+TC-0314,KSeF - eksport danych zamówień
+TC-0315,KSeF - synchronizacja API
+TC-0316,KSeF - walidacja odpowiedzi API
+TC-0317,KSeF - obsługa błędu API
+TC-0318,KSeF - reklamacja produktu
+TC-0319,KSeF - reklamacja płatności
+TC-0320,KSeF - naliczenie promocji
+TC-0321,KSeF - naliczenie rabatu
+TC-0322,KSeF - kupon rabatowy
+TC-0323,KSeF - integracja z SAP
+TC-0324,KSeF - integracja z CRM
+TC-0325,KSeF - integracja z bramką płatniczą
+TC-0326,MAGAZYN - sprzedaż gotówką
+TC-0327,MAGAZYN - sprzedaż gotówkowa
+TC-0328,MAGAZYN - sprzedaż kartą płatniczą
+TC-0329,MAGAZYN - sprzedaż z rabatem
+TC-0330,MAGAZYN - anulowanie sprzedaży
+TC-0331,MAGAZYN - zwrot sprzedaży gotówkowej
+TC-0332,MAGAZYN - zwrot na kartę
+TC-0333,MAGAZYN - płatność BLIK
+TC-0334,MAGAZYN - płatność gotówką
+TC-0335,MAGAZYN - płatność kartą
+TC-0336,MAGAZYN - autoryzacja płatności
+TC-0337,MAGAZYN - rozliczenie płatności
+TC-0338,MAGAZYN - księgowanie faktury
+TC-0339,MAGAZYN - wysłanie faktury do KSeF
+TC-0340,MAGAZYN - korekta faktury sprzedażowej
+TC-0341,MAGAZYN - utworzenie zamówienia
+TC-0342,MAGAZYN - edycja zamówienia
+TC-0343,MAGAZYN - anulowanie zamówienia
+TC-0344,MAGAZYN - realizacja zamówienia
+TC-0345,MAGAZYN - dodanie produktu do koszyka
+TC-0346,MAGAZYN - usunięcie produktu z koszyka
+TC-0347,MAGAZYN - checkout zamówienia
+TC-0348,MAGAZYN - utworzenie klienta
+TC-0349,MAGAZYN - aktualizacja danych klienta
+TC-0350,MAGAZYN - wyszukiwanie klienta
+TC-0351,MAGAZYN - scalenie duplikatów klienta
+TC-0352,MAGAZYN - przyjęcie towaru do magazynu
+TC-0353,MAGAZYN - wydanie towaru z magazynu
+TC-0354,MAGAZYN - korekta stanu magazynowego
+TC-0355,MAGAZYN - awizacja dostawy
+TC-0356,MAGAZYN - potwierdzenie dostawy
+TC-0357,MAGAZYN - opóźniona dostawa
+TC-0358,MAGAZYN - logowanie użytkownika
+TC-0359,MAGAZYN - reset hasła
+TC-0360,MAGAZYN - blokada konta użytkownika
+TC-0361,MAGAZYN - nadanie uprawnień
+TC-0362,MAGAZYN - odebranie uprawnień
+TC-0363,MAGAZYN - raport sprzedaży
+TC-0364,MAGAZYN - raport płatności
+TC-0365,MAGAZYN - eksport raportu
+TC-0366,MAGAZYN - import danych klientów
+TC-0367,MAGAZYN - eksport danych zamówień
+TC-0368,MAGAZYN - synchronizacja API
+TC-0369,MAGAZYN - walidacja odpowiedzi API
+TC-0370,MAGAZYN - obsługa błędu API
+TC-0371,MAGAZYN - reklamacja produktu
+TC-0372,MAGAZYN - reklamacja płatności
+TC-0373,MAGAZYN - naliczenie promocji
+TC-0374,MAGAZYN - naliczenie rabatu
+TC-0375,MAGAZYN - kupon rabatowy
+TC-0376,MAGAZYN - integracja z SAP
+TC-0377,MAGAZYN - integracja z CRM
+TC-0378,MAGAZYN - integracja z bramką płatniczą
+TC-0379,CHECKOUT - sprzedaż gotówką
+TC-0380,CHECKOUT - sprzedaż gotówkowa
+TC-0381,CHECKOUT - sprzedaż kartą płatniczą
+TC-0382,CHECKOUT - sprzedaż z rabatem
+TC-0383,CHECKOUT - anulowanie sprzedaży
+TC-0384,CHECKOUT - zwrot sprzedaży gotówkowej
+TC-0385,CHECKOUT - zwrot na kartę
+TC-0386,CHECKOUT - płatność BLIK
+TC-0387,CHECKOUT - płatność gotówką
+TC-0388,CHECKOUT - płatność kartą
+TC-0389,CHECKOUT - autoryzacja płatności
+TC-0390,CHECKOUT - rozliczenie płatności
+TC-0391,CHECKOUT - księgowanie faktury
+TC-0392,CHECKOUT - wysłanie faktury do KSeF
+TC-0393,CHECKOUT - korekta faktury sprzedażowej
+TC-0394,CHECKOUT - utworzenie zamówienia
+TC-0395,CHECKOUT - edycja zamówienia
+TC-0396,CHECKOUT - anulowanie zamówienia
+TC-0397,CHECKOUT - realizacja zamówienia
+TC-0398,CHECKOUT - dodanie produktu do koszyka
+TC-0399,CHECKOUT - usunięcie produktu z koszyka
+TC-0400,CHECKOUT - checkout zamówienia
+TC-0401,CHECKOUT - utworzenie klienta
+TC-0402,CHECKOUT - aktualizacja danych klienta
+TC-0403,CHECKOUT - wyszukiwanie klienta
+TC-0404,CHECKOUT - scalenie duplikatów klienta
+TC-0405,CHECKOUT - przyjęcie towaru do magazynu
+TC-0406,CHECKOUT - wydanie towaru z magazynu
+TC-0407,CHECKOUT - korekta stanu magazynowego
+TC-0408,CHECKOUT - awizacja dostawy
+TC-0409,CHECKOUT - potwierdzenie dostawy
+TC-0410,CHECKOUT - opóźniona dostawa
+TC-0411,CHECKOUT - logowanie użytkownika
+TC-0412,CHECKOUT - reset hasła
+TC-0413,CHECKOUT - blokada konta użytkownika
+TC-0414,CHECKOUT - nadanie uprawnień
+TC-0415,CHECKOUT - odebranie uprawnień
+TC-0416,CHECKOUT - raport sprzedaży
+TC-0417,CHECKOUT - raport płatności
+TC-0418,CHECKOUT - eksport raportu
+TC-0419,CHECKOUT - import danych klientów
+TC-0420,CHECKOUT - eksport danych zamówień
+TC-0421,CHECKOUT - synchronizacja API
+TC-0422,CHECKOUT - walidacja odpowiedzi API
+TC-0423,CHECKOUT - obsługa błędu API
+TC-0424,CHECKOUT - reklamacja produktu
+TC-0425,CHECKOUT - reklamacja płatności
+TC-0426,CHECKOUT - naliczenie promocji
+TC-0427,CHECKOUT - naliczenie rabatu
+TC-0428,CHECKOUT - kupon rabatowy
+TC-0429,CHECKOUT - integracja z SAP
+TC-0430,CHECKOUT - integracja z CRM
+TC-0431,CHECKOUT - integracja z bramką płatniczą
+TC-0432,KOSZYK - sprzedaż gotówką
+TC-0433,KOSZYK - sprzedaż gotówkowa
+TC-0434,KOSZYK - sprzedaż kartą płatniczą
+TC-0435,KOSZYK - sprzedaż z rabatem
+TC-0436,KOSZYK - anulowanie sprzedaży
+TC-0437,KOSZYK - zwrot sprzedaży gotówkowej
+TC-0438,KOSZYK - zwrot na kartę
+TC-0439,KOSZYK - płatność BLIK
+TC-0440,KOSZYK - płatność gotówką
+TC-0441,KOSZYK - płatność kartą
+TC-0442,KOSZYK - autoryzacja płatności
+TC-0443,KOSZYK - rozliczenie płatności
+TC-0444,KOSZYK - księgowanie faktury
+TC-0445,KOSZYK - wysłanie faktury do KSeF
+TC-0446,KOSZYK - korekta faktury sprzedażowej
+TC-0447,KOSZYK - utworzenie zamówienia
+TC-0448,KOSZYK - edycja zamówienia
+TC-0449,KOSZYK - anulowanie zamówienia
+TC-0450,KOSZYK - realizacja zamówienia
+TC-0451,KOSZYK - dodanie produktu do koszyka
+TC-0452,KOSZYK - usunięcie produktu z koszyka
+TC-0453,KOSZYK - checkout zamówienia
+TC-0454,KOSZYK - utworzenie klienta
+TC-0455,KOSZYK - aktualizacja danych klienta
+TC-0456,KOSZYK - wyszukiwanie klienta
+TC-0457,KOSZYK - scalenie duplikatów klienta
+TC-0458,KOSZYK - przyjęcie towaru do magazynu
+TC-0459,KOSZYK - wydanie towaru z magazynu
+TC-0460,KOSZYK - korekta stanu magazynowego
+TC-0461,KOSZYK - awizacja dostawy
+TC-0462,KOSZYK - potwierdzenie dostawy
+TC-0463,KOSZYK - opóźniona dostawa
+TC-0464,KOSZYK - logowanie użytkownika
+TC-0465,KOSZYK - reset hasła
+TC-0466,KOSZYK - blokada konta użytkownika
+TC-0467,KOSZYK - nadanie uprawnień
+TC-0468,KOSZYK - odebranie uprawnień
+TC-0469,KOSZYK - raport sprzedaży
+TC-0470,KOSZYK - raport płatności
+TC-0471,KOSZYK - eksport raportu
+TC-0472,KOSZYK - import danych klientów
+TC-0473,KOSZYK - eksport danych zamówień
+TC-0474,KOSZYK - synchronizacja API
+TC-0475,KOSZYK - walidacja odpowiedzi API
+TC-0476,KOSZYK - obsługa błędu API
+TC-0477,KOSZYK - reklamacja produktu
+TC-0478,KOSZYK - reklamacja płatności
+TC-0479,KOSZYK - naliczenie promocji
+TC-0480,KOSZYK - naliczenie rabatu
+TC-0481,KOSZYK - kupon rabatowy
+TC-0482,KOSZYK - integracja z SAP
+TC-0483,KOSZYK - integracja z CRM
+TC-0484,KOSZYK - integracja z bramką płatniczą
+TC-0485,API - sprzedaż gotówką
+TC-0486,API - sprzedaż gotówkowa
+TC-0487,API - sprzedaż kartą płatniczą
+TC-0488,API - sprzedaż z rabatem
+TC-0489,API - anulowanie sprzedaży
+TC-0490,API - zwrot sprzedaży gotówkowej
+TC-0491,API - zwrot na kartę
+TC-0492,API - płatność BLIK
+TC-0493,API - płatność gotówką
+TC-0494,API - płatność kartą
+TC-0495,API - autoryzacja płatności
+TC-0496,API - rozliczenie płatności
+TC-0497,API - księgowanie faktury
+TC-0498,API - wysłanie faktury do KSeF
+TC-0499,API - korekta faktury sprzedażowej
+TC-0500,API - utworzenie zamówienia
+TC-0501,API - edycja zamówienia
+TC-0502,API - anulowanie zamówienia
+TC-0503,API - realizacja zamówienia
+TC-0504,API - dodanie produktu do koszyka
+TC-0505,API - usunięcie produktu z koszyka
+TC-0506,API - checkout zamówienia
+TC-0507,API - utworzenie klienta
+TC-0508,API - aktualizacja danych klienta
+TC-0509,API - wyszukiwanie klienta
+TC-0510,API - scalenie duplikatów klienta
+TC-0511,API - przyjęcie towaru do magazynu
+TC-0512,API - wydanie towaru z magazynu
+TC-0513,API - korekta stanu magazynowego
+TC-0514,API - awizacja dostawy
+TC-0515,API - potwierdzenie dostawy
+TC-0516,API - opóźniona dostawa
+TC-0517,API - logowanie użytkownika
+TC-0518,API - reset hasła
+TC-0519,API - blokada konta użytkownika
+TC-0520,API - nadanie uprawnień
+TC-0521,API - odebranie uprawnień
+TC-0522,API - raport sprzedaży
+TC-0523,API - raport płatności
+TC-0524,API - eksport raportu
+TC-0525,API - import danych klientów
+TC-0526,API - eksport danych zamówień
+TC-0527,API - synchronizacja API
+TC-0528,API - walidacja odpowiedzi API
+TC-0529,API - obsługa błędu API
+TC-0530,API - reklamacja produktu
+TC-0531,API - reklamacja płatności
+TC-0532,API - naliczenie promocji
+TC-0533,API - naliczenie rabatu
+TC-0534,API - kupon rabatowy
+TC-0535,API - integracja z SAP
+TC-0536,API - integracja z CRM
+TC-0537,API - integracja z bramką płatniczą
+TC-0538,ADMIN - sprzedaż gotówką
+TC-0539,ADMIN - sprzedaż gotówkowa
+TC-0540,ADMIN - sprzedaż kartą płatniczą
+TC-0541,ADMIN - sprzedaż z rabatem
+TC-0542,ADMIN - anulowanie sprzedaży
+TC-0543,ADMIN - zwrot sprzedaży gotówkowej
+TC-0544,ADMIN - zwrot na kartę
+TC-0545,ADMIN - płatność BLIK
+TC-0546,ADMIN - płatność gotówką
+TC-0547,ADMIN - płatność kartą
+TC-0548,ADMIN - autoryzacja płatności
+TC-0549,ADMIN - rozliczenie płatności
+TC-0550,ADMIN - księgowanie faktury
+TC-0551,ADMIN - wysłanie faktury do KSeF
+TC-0552,ADMIN - korekta faktury sprzedażowej
+TC-0553,ADMIN - utworzenie zamówienia
+TC-0554,ADMIN - edycja zamówienia
+TC-0555,ADMIN - anulowanie zamówienia
+TC-0556,ADMIN - realizacja zamówienia
+TC-0557,ADMIN - dodanie produktu do koszyka
+TC-0558,ADMIN - usunięcie produktu z koszyka
+TC-0559,ADMIN - checkout zamówienia
+TC-0560,ADMIN - utworzenie klienta
+TC-0561,ADMIN - aktualizacja danych klienta
+TC-0562,ADMIN - wyszukiwanie klienta
+TC-0563,ADMIN - scalenie duplikatów klienta
+TC-0564,ADMIN - przyjęcie towaru do magazynu
+TC-0565,ADMIN - wydanie towaru z magazynu
+TC-0566,ADMIN - korekta stanu magazynowego
+TC-0567,ADMIN - awizacja dostawy
+TC-0568,ADMIN - potwierdzenie dostawy
+TC-0569,ADMIN - opóźniona dostawa
+TC-0570,ADMIN - logowanie użytkownika
+TC-0571,ADMIN - reset hasła
+TC-0572,ADMIN - blokada konta użytkownika
+TC-0573,ADMIN - nadanie uprawnień
+TC-0574,ADMIN - odebranie uprawnień
+TC-0575,ADMIN - raport sprzedaży
+TC-0576,ADMIN - raport płatności
+TC-0577,ADMIN - eksport raportu
+TC-0578,ADMIN - import danych klientów
+TC-0579,ADMIN - eksport danych zamówień
+TC-0580,ADMIN - synchronizacja API
+TC-0581,ADMIN - walidacja odpowiedzi API
+TC-0582,ADMIN - obsługa błędu API
+TC-0583,ADMIN - reklamacja produktu
+TC-0584,ADMIN - reklamacja płatności
+TC-0585,ADMIN - naliczenie promocji
+TC-0586,ADMIN - naliczenie rabatu
+TC-0587,ADMIN - kupon rabatowy
+TC-0588,ADMIN - integracja z SAP
+TC-0589,ADMIN - integracja z CRM
+TC-0590,ADMIN - integracja z bramką płatniczą
+TC-0591,RAPORTY - sprzedaż gotówką
+TC-0592,RAPORTY - sprzedaż gotówkowa
+TC-0593,RAPORTY - sprzedaż kartą płatniczą
+TC-0594,RAPORTY - sprzedaż z rabatem
+TC-0595,RAPORTY - anulowanie sprzedaży
+TC-0596,RAPORTY - zwrot sprzedaży gotówkowej
+TC-0597,RAPORTY - zwrot na kartę
+TC-0598,RAPORTY - płatność BLIK
+TC-0599,RAPORTY - płatność gotówką
+TC-0600,RAPORTY - płatność kartą
+TC-0601,RAPORTY - autoryzacja płatności
+TC-0602,RAPORTY - rozliczenie płatności
+TC-0603,RAPORTY - księgowanie faktury
+TC-0604,RAPORTY - wysłanie faktury do KSeF
+TC-0605,RAPORTY - korekta faktury sprzedażowej
+TC-0606,RAPORTY - utworzenie zamówienia
+TC-0607,RAPORTY - edycja zamówienia
+TC-0608,RAPORTY - anulowanie zamówienia
+TC-0609,RAPORTY - realizacja zamówienia
+TC-0610,RAPORTY - dodanie produktu do koszyka
+TC-0611,RAPORTY - usunięcie produktu z koszyka
+TC-0612,RAPORTY - checkout zamówienia
+TC-0613,RAPORTY - utworzenie klienta
+TC-0614,RAPORTY - aktualizacja danych klienta
+TC-0615,RAPORTY - wyszukiwanie klienta
+TC-0616,RAPORTY - scalenie duplikatów klienta
+TC-0617,RAPORTY - przyjęcie towaru do magazynu
+TC-0618,RAPORTY - wydanie towaru z magazynu
+TC-0619,RAPORTY - korekta stanu magazynowego
+TC-0620,RAPORTY - awizacja dostawy
+TC-0621,RAPORTY - potwierdzenie dostawy
+TC-0622,RAPORTY - opóźniona dostawa
+TC-0623,RAPORTY - logowanie użytkownika
+TC-0624,RAPORTY - reset hasła
+TC-0625,RAPORTY - blokada konta użytkownika
+TC-0626,RAPORTY - nadanie uprawnień
+TC-0627,RAPORTY - odebranie uprawnień
+TC-0628,RAPORTY - raport sprzedaży
+TC-0629,RAPORTY - raport płatności
+TC-0630,RAPORTY - eksport raportu
+TC-0631,RAPORTY - import danych klientów
+TC-0632,RAPORTY - eksport danych zamówień
+TC-0633,RAPORTY - synchronizacja API
+TC-0634,RAPORTY - walidacja odpowiedzi API
+TC-0635,RAPORTY - obsługa błędu API
+TC-0636,RAPORTY - reklamacja produktu
+TC-0637,RAPORTY - reklamacja płatności
+TC-0638,RAPORTY - naliczenie promocji
+TC-0639,RAPORTY - naliczenie rabatu
+TC-0640,RAPORTY - kupon rabatowy
+TC-0641,RAPORTY - integracja z SAP
+TC-0642,RAPORTY - integracja z CRM
+TC-0643,RAPORTY - integracja z bramką płatniczą
+TC-0644,PROMOCJE - sprzedaż gotówką
+TC-0645,PROMOCJE - sprzedaż gotówkowa
+TC-0646,PROMOCJE - sprzedaż kartą płatniczą
+TC-0647,PROMOCJE - sprzedaż z rabatem
+TC-0648,PROMOCJE - anulowanie sprzedaży
+TC-0649,PROMOCJE - zwrot sprzedaży gotówkowej
+TC-0650,PROMOCJE - zwrot na kartę
+TC-0651,PROMOCJE - płatność BLIK
+TC-0652,PROMOCJE - płatność gotówką
+TC-0653,PROMOCJE - płatność kartą
+TC-0654,PROMOCJE - autoryzacja płatności
+TC-0655,PROMOCJE - rozliczenie płatności
+TC-0656,PROMOCJE - księgowanie faktury
+TC-0657,PROMOCJE - wysłanie faktury do KSeF
+TC-0658,PROMOCJE - korekta faktury sprzedażowej
+TC-0659,PROMOCJE - utworzenie zamówienia
+TC-0660,PROMOCJE - edycja zamówienia
+TC-0661,PROMOCJE - anulowanie zamówienia
+TC-0662,PROMOCJE - realizacja zamówienia
+TC-0663,PROMOCJE - dodanie produktu do koszyka
+TC-0664,PROMOCJE - usunięcie produktu z koszyka
+TC-0665,PROMOCJE - checkout zamówienia
+TC-0666,PROMOCJE - utworzenie klienta
+TC-0667,PROMOCJE - aktualizacja danych klienta
+TC-0668,PROMOCJE - wyszukiwanie klienta
+TC-0669,PROMOCJE - scalenie duplikatów klienta
+TC-0670,PROMOCJE - przyjęcie towaru do magazynu
+TC-0671,PROMOCJE - wydanie towaru z magazynu
+TC-0672,PROMOCJE - korekta stanu magazynowego
+TC-0673,PROMOCJE - awizacja dostawy
+TC-0674,PROMOCJE - potwierdzenie dostawy
+TC-0675,PROMOCJE - opóźniona dostawa
+TC-0676,PROMOCJE - logowanie użytkownika
+TC-0677,PROMOCJE - reset hasła
+TC-0678,PROMOCJE - blokada konta użytkownika
+TC-0679,PROMOCJE - nadanie uprawnień
+TC-0680,PROMOCJE - odebranie uprawnień
+TC-0681,PROMOCJE - raport sprzedaży
+TC-0682,PROMOCJE - raport płatności
+TC-0683,PROMOCJE - eksport raportu
+TC-0684,PROMOCJE - import danych klientów
+TC-0685,PROMOCJE - eksport danych zamówień
+TC-0686,PROMOCJE - synchronizacja API
+TC-0687,PROMOCJE - walidacja odpowiedzi API
+TC-0688,PROMOCJE - obsługa błędu API
+TC-0689,PROMOCJE - reklamacja produktu
+TC-0690,PROMOCJE - reklamacja płatności
+TC-0691,PROMOCJE - naliczenie promocji
+TC-0692,PROMOCJE - naliczenie rabatu
+TC-0693,PROMOCJE - kupon rabatowy
+TC-0694,PROMOCJE - integracja z SAP
+TC-0695,PROMOCJE - integracja z CRM
+TC-0696,PROMOCJE - integracja z bramką płatniczą
+TC-0697,REKLAMACJE - sprzedaż gotówką
+TC-0698,REKLAMACJE - sprzedaż gotówkowa
+TC-0699,REKLAMACJE - sprzedaż kartą płatniczą
+TC-0700,REKLAMACJE - sprzedaż z rabatem
+TC-0701,REKLAMACJE - anulowanie sprzedaży
+TC-0702,REKLAMACJE - zwrot sprzedaży gotówkowej
+TC-0703,REKLAMACJE - zwrot na kartę
+TC-0704,REKLAMACJE - płatność BLIK
+TC-0705,REKLAMACJE - płatność gotówką
+TC-0706,REKLAMACJE - płatność kartą
+TC-0707,REKLAMACJE - autoryzacja płatności
+TC-0708,REKLAMACJE - rozliczenie płatności
+TC-0709,REKLAMACJE - księgowanie faktury
+TC-0710,REKLAMACJE - wysłanie faktury do KSeF
+TC-0711,REKLAMACJE - korekta faktury sprzedażowej
+TC-0712,REKLAMACJE - utworzenie zamówienia
+TC-0713,REKLAMACJE - edycja zamówienia
+TC-0714,REKLAMACJE - anulowanie zamówienia
+TC-0715,REKLAMACJE - realizacja zamówienia
+TC-0716,REKLAMACJE - dodanie produktu do koszyka
+TC-0717,REKLAMACJE - usunięcie produktu z koszyka
+TC-0718,REKLAMACJE - checkout zamówienia
+TC-0719,REKLAMACJE - utworzenie klienta
+TC-0720,REKLAMACJE - aktualizacja danych klienta
+TC-0721,REKLAMACJE - wyszukiwanie klienta
+TC-0722,REKLAMACJE - scalenie duplikatów klienta
+TC-0723,REKLAMACJE - przyjęcie towaru do magazynu
+TC-0724,REKLAMACJE - wydanie towaru z magazynu
+TC-0725,REKLAMACJE - korekta stanu magazynowego
+TC-0726,REKLAMACJE - awizacja dostawy
+TC-0727,REKLAMACJE - potwierdzenie dostawy
+TC-0728,REKLAMACJE - opóźniona dostawa
+TC-0729,REKLAMACJE - logowanie użytkownika
+TC-0730,REKLAMACJE - reset hasła
+TC-0731,REKLAMACJE - blokada konta użytkownika
+TC-0732,REKLAMACJE - nadanie uprawnień
+TC-0733,REKLAMACJE - odebranie uprawnień
+TC-0734,REKLAMACJE - raport sprzedaży
+TC-0735,REKLAMACJE - raport płatności
+TC-0736,REKLAMACJE - eksport raportu
+TC-0737,REKLAMACJE - import danych klientów
+TC-0738,REKLAMACJE - eksport danych zamówień
+TC-0739,REKLAMACJE - synchronizacja API
+TC-0740,REKLAMACJE - walidacja odpowiedzi API
+TC-0741,REKLAMACJE - obsługa błędu API
+TC-0742,REKLAMACJE - reklamacja produktu
+TC-0743,REKLAMACJE - reklamacja płatności
+TC-0744,REKLAMACJE - naliczenie promocji
+TC-0745,REKLAMACJE - naliczenie rabatu
+TC-0746,REKLAMACJE - kupon rabatowy
+TC-0747,REKLAMACJE - integracja z SAP
+TC-0748,REKLAMACJE - integracja z CRM
+TC-0749,REKLAMACJE - integracja z bramką płatniczą
+TC-0750,DOSTAWY - sprzedaż gotówką
+TC-0751,DOSTAWY - sprzedaż gotówkowa
+TC-0752,DOSTAWY - sprzedaż kartą płatniczą
+TC-0753,DOSTAWY - sprzedaż z rabatem
+TC-0754,DOSTAWY - anulowanie sprzedaży
+TC-0755,DOSTAWY - zwrot sprzedaży gotówkowej
+TC-0756,DOSTAWY - zwrot na kartę
+TC-0757,DOSTAWY - płatność BLIK
+TC-0758,DOSTAWY - płatność gotówką
+TC-0759,DOSTAWY - płatność kartą
+TC-0760,DOSTAWY - autoryzacja płatności
+TC-0761,DOSTAWY - rozliczenie płatności
+TC-0762,DOSTAWY - księgowanie faktury
+TC-0763,DOSTAWY - wysłanie faktury do KSeF
+TC-0764,DOSTAWY - korekta faktury sprzedażowej
+TC-0765,DOSTAWY - utworzenie zamówienia
+TC-0766,DOSTAWY - edycja zamówienia
+TC-0767,DOSTAWY - anulowanie zamówienia
+TC-0768,DOSTAWY - realizacja zamówienia
+TC-0769,DOSTAWY - dodanie produktu do koszyka
+TC-0770,DOSTAWY - usunięcie produktu z koszyka
+TC-0771,DOSTAWY - checkout zamówienia
+TC-0772,DOSTAWY - utworzenie klienta
+TC-0773,DOSTAWY - aktualizacja danych klienta
+TC-0774,DOSTAWY - wyszukiwanie klienta
+TC-0775,DOSTAWY - scalenie duplikatów klienta
+TC-0776,DOSTAWY - przyjęcie towaru do magazynu
+TC-0777,DOSTAWY - wydanie towaru z magazynu
+TC-0778,DOSTAWY - korekta stanu magazynowego
+TC-0779,DOSTAWY - awizacja dostawy
+TC-0780,DOSTAWY - potwierdzenie dostawy
+TC-0781,DOSTAWY - opóźniona dostawa
+TC-0782,DOSTAWY - logowanie użytkownika
+TC-0783,DOSTAWY - reset hasła
+TC-0784,DOSTAWY - blokada konta użytkownika
+TC-0785,DOSTAWY - nadanie uprawnień
+TC-0786,DOSTAWY - odebranie uprawnień
+TC-0787,DOSTAWY - raport sprzedaży
+TC-0788,DOSTAWY - raport płatności
+TC-0789,DOSTAWY - eksport raportu
+TC-0790,DOSTAWY - import danych klientów
+TC-0791,DOSTAWY - eksport danych zamówień
+TC-0792,DOSTAWY - synchronizacja API
+TC-0793,DOSTAWY - walidacja odpowiedzi API
+TC-0794,DOSTAWY - obsługa błędu API
+TC-0795,DOSTAWY - reklamacja produktu
+TC-0796,DOSTAWY - reklamacja płatności
+TC-0797,DOSTAWY - naliczenie promocji
+TC-0798,DOSTAWY - naliczenie rabatu
+TC-0799,DOSTAWY - kupon rabatowy
+TC-0800,DOSTAWY - integracja z SAP
+TC-0801,DOSTAWY - integracja z CRM
+TC-0802,DOSTAWY - integracja z bramką płatniczą
+TC-0803,INTEGRACJE - sprzedaż gotówką
+TC-0804,INTEGRACJE - sprzedaż gotówkowa
+TC-0805,INTEGRACJE - sprzedaż kartą płatniczą
+TC-0806,INTEGRACJE - sprzedaż z rabatem
+TC-0807,INTEGRACJE - anulowanie sprzedaży
+TC-0808,INTEGRACJE - zwrot sprzedaży gotówkowej
+TC-0809,INTEGRACJE - zwrot na kartę
+TC-0810,INTEGRACJE - płatność BLIK
+TC-0811,INTEGRACJE - płatność gotówką
+TC-0812,INTEGRACJE - płatność kartą
+TC-0813,INTEGRACJE - autoryzacja płatności
+TC-0814,INTEGRACJE - rozliczenie płatności
+TC-0815,INTEGRACJE - księgowanie faktury
+TC-0816,INTEGRACJE - wysłanie faktury do KSeF
+TC-0817,INTEGRACJE - korekta faktury sprzedażowej
+TC-0818,INTEGRACJE - utworzenie zamówienia
+TC-0819,INTEGRACJE - edycja zamówienia
+TC-0820,INTEGRACJE - anulowanie zamówienia
+TC-0821,INTEGRACJE - realizacja zamówienia
+TC-0822,INTEGRACJE - dodanie produktu do koszyka
+TC-0823,INTEGRACJE - usunięcie produktu z koszyka
+TC-0824,INTEGRACJE - checkout zamówienia
+TC-0825,INTEGRACJE - utworzenie klienta
+TC-0826,INTEGRACJE - aktualizacja danych klienta
+TC-0827,INTEGRACJE - wyszukiwanie klienta
+TC-0828,INTEGRACJE - scalenie duplikatów klienta
+TC-0829,INTEGRACJE - przyjęcie towaru do magazynu
+TC-0830,INTEGRACJE - wydanie towaru z magazynu
+TC-0831,INTEGRACJE - korekta stanu magazynowego
+TC-0832,INTEGRACJE - awizacja dostawy
+TC-0833,INTEGRACJE - potwierdzenie dostawy
+TC-0834,INTEGRACJE - opóźniona dostawa
+TC-0835,INTEGRACJE - logowanie użytkownika
+TC-0836,INTEGRACJE - reset hasła
+TC-0837,INTEGRACJE - blokada konta użytkownika
+TC-0838,INTEGRACJE - nadanie uprawnień
+TC-0839,INTEGRACJE - odebranie uprawnień
+TC-0840,INTEGRACJE - raport sprzedaży
+TC-0841,INTEGRACJE - raport płatności
+TC-0842,INTEGRACJE - eksport raportu
+TC-0843,INTEGRACJE - import danych klientów
+TC-0844,INTEGRACJE - eksport danych zamówień
+TC-0845,INTEGRACJE - synchronizacja API
+TC-0846,INTEGRACJE - walidacja odpowiedzi API
+TC-0847,INTEGRACJE - obsługa błędu API
+TC-0848,INTEGRACJE - reklamacja produktu
+TC-0849,INTEGRACJE - reklamacja płatności
+TC-0850,INTEGRACJE - naliczenie promocji
+TC-0851,INTEGRACJE - naliczenie rabatu
+TC-0852,INTEGRACJE - kupon rabatowy
+TC-0853,INTEGRACJE - integracja z SAP
+TC-0854,INTEGRACJE - integracja z CRM
+TC-0855,INTEGRACJE - integracja z bramką płatniczą
+TC-0856,IMPORT - sprzedaż gotówką
+TC-0857,IMPORT - sprzedaż gotówkowa
+TC-0858,IMPORT - sprzedaż kartą płatniczą
+TC-0859,IMPORT - sprzedaż z rabatem
+TC-0860,IMPORT - anulowanie sprzedaży
+TC-0861,IMPORT - zwrot sprzedaży gotówkowej
+TC-0862,IMPORT - zwrot na kartę
+TC-0863,IMPORT - płatność BLIK
+TC-0864,IMPORT - płatność gotówką
+TC-0865,IMPORT - płatność kartą
+TC-0866,IMPORT - autoryzacja płatności
+TC-0867,IMPORT - rozliczenie płatności
+TC-0868,IMPORT - księgowanie faktury
+TC-0869,IMPORT - wysłanie faktury do KSeF
+TC-0870,IMPORT - korekta faktury sprzedażowej
+TC-0871,IMPORT - utworzenie zamówienia
+TC-0872,IMPORT - edycja zamówienia
+TC-0873,IMPORT - anulowanie zamówienia
+TC-0874,IMPORT - realizacja zamówienia
+TC-0875,IMPORT - dodanie produktu do koszyka
+TC-0876,IMPORT - usunięcie produktu z koszyka
+TC-0877,IMPORT - checkout zamówienia
+TC-0878,IMPORT - utworzenie klienta
+TC-0879,IMPORT - aktualizacja danych klienta
+TC-0880,IMPORT - wyszukiwanie klienta
+TC-0881,IMPORT - scalenie duplikatów klienta
+TC-0882,IMPORT - przyjęcie towaru do magazynu
+TC-0883,IMPORT - wydanie towaru z magazynu
+TC-0884,IMPORT - korekta stanu magazynowego
+TC-0885,IMPORT - awizacja dostawy
+TC-0886,IMPORT - potwierdzenie dostawy
+TC-0887,IMPORT - opóźniona dostawa
+TC-0888,IMPORT - logowanie użytkownika
+TC-0889,IMPORT - reset hasła
+TC-0890,IMPORT - blokada konta użytkownika
+TC-0891,IMPORT - nadanie uprawnień
+TC-0892,IMPORT - odebranie uprawnień
+TC-0893,IMPORT - raport sprzedaży
+TC-0894,IMPORT - raport płatności
+TC-0895,IMPORT - eksport raportu
+TC-0896,IMPORT - import danych klientów
+TC-0897,IMPORT - eksport danych zamówień
+TC-0898,IMPORT - synchronizacja API
+TC-0899,IMPORT - walidacja odpowiedzi API
+TC-0900,IMPORT - obsługa błędu API
+TC-0901,IMPORT - reklamacja produktu
+TC-0902,IMPORT - reklamacja płatności
+TC-0903,IMPORT - naliczenie promocji
+TC-0904,IMPORT - naliczenie rabatu
+TC-0905,IMPORT - kupon rabatowy
+TC-0906,IMPORT - integracja z SAP
+TC-0907,IMPORT - integracja z CRM
+TC-0908,IMPORT - integracja z bramką płatniczą
+TC-0909,EKSPORT - sprzedaż gotówką
+TC-0910,EKSPORT - sprzedaż gotówkowa
+TC-0911,EKSPORT - sprzedaż kartą płatniczą
+TC-0912,EKSPORT - sprzedaż z rabatem
+TC-0913,EKSPORT - anulowanie sprzedaży
+TC-0914,EKSPORT - zwrot sprzedaży gotówkowej
+TC-0915,EKSPORT - zwrot na kartę
+TC-0916,EKSPORT - płatność BLIK
+TC-0917,EKSPORT - płatność gotówką
+TC-0918,EKSPORT - płatność kartą
+TC-0919,EKSPORT - autoryzacja płatności
+TC-0920,EKSPORT - rozliczenie płatności
+TC-0921,EKSPORT - księgowanie faktury
+TC-0922,EKSPORT - wysłanie faktury do KSeF
+TC-0923,EKSPORT - korekta faktury sprzedażowej
+TC-0924,EKSPORT - utworzenie zamówienia
+TC-0925,EKSPORT - edycja zamówienia
+TC-0926,EKSPORT - anulowanie zamówienia
+TC-0927,EKSPORT - realizacja zamówienia
+TC-0928,EKSPORT - dodanie produktu do koszyka
+TC-0929,EKSPORT - usunięcie produktu z koszyka
+TC-0930,EKSPORT - checkout zamówienia
+TC-0931,EKSPORT - utworzenie klienta
+TC-0932,EKSPORT - aktualizacja danych klienta
+TC-0933,EKSPORT - wyszukiwanie klienta
+TC-0934,EKSPORT - scalenie duplikatów klienta
+TC-0935,EKSPORT - przyjęcie towaru do magazynu
+TC-0936,EKSPORT - wydanie towaru z magazynu
+TC-0937,EKSPORT - korekta stanu magazynowego
+TC-0938,EKSPORT - awizacja dostawy
+TC-0939,EKSPORT - potwierdzenie dostawy
+TC-0940,EKSPORT - opóźniona dostawa
+TC-0941,EKSPORT - logowanie użytkownika
+TC-0942,EKSPORT - reset hasła
+TC-0943,EKSPORT - blokada konta użytkownika
+TC-0944,EKSPORT - nadanie uprawnień
+TC-0945,EKSPORT - odebranie uprawnień
+TC-0946,EKSPORT - raport sprzedaży
+TC-0947,EKSPORT - raport płatności
+TC-0948,EKSPORT - eksport raportu
+TC-0949,EKSPORT - import danych klientów
+TC-0950,EKSPORT - eksport danych zamówień
+TC-0951,EKSPORT - synchronizacja API
+TC-0952,EKSPORT - walidacja odpowiedzi API
+TC-0953,EKSPORT - obsługa błędu API
+TC-0954,EKSPORT - reklamacja produktu
+TC-0955,EKSPORT - reklamacja płatności
+TC-0956,EKSPORT - naliczenie promocji
+TC-0957,EKSPORT - naliczenie rabatu
+TC-0958,EKSPORT - kupon rabatowy
+TC-0959,EKSPORT - integracja z SAP
+TC-0960,EKSPORT - integracja z CRM
+TC-0961,EKSPORT - integracja z bramką płatniczą
+TC-0962,UŻYTKOWNICY - sprzedaż gotówką
+TC-0963,UŻYTKOWNICY - sprzedaż gotówkowa
+TC-0964,UŻYTKOWNICY - sprzedaż kartą płatniczą
+TC-0965,UŻYTKOWNICY - sprzedaż z rabatem
+TC-0966,UŻYTKOWNICY - anulowanie sprzedaży
+TC-0967,UŻYTKOWNICY - zwrot sprzedaży gotówkowej
+TC-0968,UŻYTKOWNICY - zwrot na kartę
+TC-0969,UŻYTKOWNICY - płatność BLIK
+TC-0970,UŻYTKOWNICY - płatność gotówką
+TC-0971,UŻYTKOWNICY - płatność kartą
+TC-0972,UŻYTKOWNICY - autoryzacja płatności
+TC-0973,UŻYTKOWNICY - rozliczenie płatności
+TC-0974,UŻYTKOWNICY - księgowanie faktury
+TC-0975,UŻYTKOWNICY - wysłanie faktury do KSeF
+TC-0976,UŻYTKOWNICY - korekta faktury sprzedażowej
+TC-0977,UŻYTKOWNICY - utworzenie zamówienia
+TC-0978,UŻYTKOWNICY - edycja zamówienia
+TC-0979,UŻYTKOWNICY - anulowanie zamówienia
+TC-0980,UŻYTKOWNICY - realizacja zamówienia
+TC-0981,UŻYTKOWNICY - dodanie produktu do koszyka
+TC-0982,UŻYTKOWNICY - usunięcie produktu z koszyka
+TC-0983,UŻYTKOWNICY - checkout zamówienia
+TC-0984,UŻYTKOWNICY - utworzenie klienta
+TC-0985,UŻYTKOWNICY - aktualizacja danych klienta
+TC-0986,UŻYTKOWNICY - wyszukiwanie klienta
+TC-0987,UŻYTKOWNICY - scalenie duplikatów klienta
+TC-0988,UŻYTKOWNICY - przyjęcie towaru do magazynu
+TC-0989,UŻYTKOWNICY - wydanie towaru z magazynu
+TC-0990,UŻYTKOWNICY - korekta stanu magazynowego
+TC-0991,UŻYTKOWNICY - awizacja dostawy
+TC-0992,UŻYTKOWNICY - potwierdzenie dostawy
+TC-0993,UŻYTKOWNICY - opóźniona dostawa
+TC-0994,UŻYTKOWNICY - logowanie użytkownika
+TC-0995,UŻYTKOWNICY - reset hasła
+TC-0996,UŻYTKOWNICY - blokada konta użytkownika
+TC-0997,UŻYTKOWNICY - nadanie uprawnień
+TC-0998,UŻYTKOWNICY - odebranie uprawnień
+TC-0999,UŻYTKOWNICY - raport sprzedaży
+TC-1000,UŻYTKOWNICY - raport płatności
+TC-1001,UŻYTKOWNICY - eksport raportu
+TC-1002,UŻYTKOWNICY - import danych klientów
+TC-1003,UŻYTKOWNICY - eksport danych zamówień
+TC-1004,UŻYTKOWNICY - synchronizacja API
+TC-1005,UŻYTKOWNICY - walidacja odpowiedzi API
+TC-1006,UŻYTKOWNICY - obsługa błędu API
+TC-1007,UŻYTKOWNICY - reklamacja produktu
+TC-1008,UŻYTKOWNICY - reklamacja płatności
+TC-1009,UŻYTKOWNICY - naliczenie promocji
+TC-1010,UŻYTKOWNICY - naliczenie rabatu
+TC-1011,UŻYTKOWNICY - kupon rabatowy
+TC-1012,UŻYTKOWNICY - integracja z SAP
+TC-1013,UŻYTKOWNICY - integracja z CRM
+TC-1014,UŻYTKOWNICY - integracja z bramką płatniczą
+TC-1015,UPRAWNIENIA - sprzedaż gotówką
+TC-1016,UPRAWNIENIA - sprzedaż gotówkowa
+TC-1017,UPRAWNIENIA - sprzedaż kartą płatniczą
+TC-1018,UPRAWNIENIA - sprzedaż z rabatem
+TC-1019,UPRAWNIENIA - anulowanie sprzedaży
+TC-1020,UPRAWNIENIA - zwrot sprzedaży gotówkowej
+TC-1021,UPRAWNIENIA - zwrot na kartę
+TC-1022,UPRAWNIENIA - płatność BLIK
+TC-1023,UPRAWNIENIA - płatność gotówką
+TC-1024,UPRAWNIENIA - płatność kartą
+TC-1025,UPRAWNIENIA - autoryzacja płatności
+TC-1026,UPRAWNIENIA - rozliczenie płatności
+TC-1027,UPRAWNIENIA - księgowanie faktury
+TC-1028,UPRAWNIENIA - wysłanie faktury do KSeF
+TC-1029,UPRAWNIENIA - korekta faktury sprzedażowej
+TC-1030,UPRAWNIENIA - utworzenie zamówienia
+TC-1031,UPRAWNIENIA - edycja zamówienia
+TC-1032,UPRAWNIENIA - anulowanie zamówienia
+TC-1033,UPRAWNIENIA - realizacja zamówienia
+TC-1034,UPRAWNIENIA - dodanie produktu do koszyka
+TC-1035,UPRAWNIENIA - usunięcie produktu z koszyka
+TC-1036,UPRAWNIENIA - checkout zamówienia
+TC-1037,UPRAWNIENIA - utworzenie klienta
+TC-1038,UPRAWNIENIA - aktualizacja danych klienta
+TC-1039,UPRAWNIENIA - wyszukiwanie klienta
+TC-1040,UPRAWNIENIA - scalenie duplikatów klienta
+TC-1041,UPRAWNIENIA - przyjęcie towaru do magazynu
+TC-1042,UPRAWNIENIA - wydanie towaru z magazynu
+TC-1043,UPRAWNIENIA - korekta stanu magazynowego
+TC-1044,UPRAWNIENIA - awizacja dostawy
+TC-1045,UPRAWNIENIA - potwierdzenie dostawy
+TC-1046,UPRAWNIENIA - opóźniona dostawa
+TC-1047,UPRAWNIENIA - logowanie użytkownika
+TC-1048,UPRAWNIENIA - reset hasła
+TC-1049,UPRAWNIENIA - blokada konta użytkownika
+TC-1050,UPRAWNIENIA - nadanie uprawnień
+TC-1051,UPRAWNIENIA - odebranie uprawnień
+TC-1052,UPRAWNIENIA - raport sprzedaży
+TC-1053,UPRAWNIENIA - raport płatności
+TC-1054,UPRAWNIENIA - eksport raportu
+TC-1055,UPRAWNIENIA - import danych klientów
+TC-1056,UPRAWNIENIA - eksport danych zamówień
+TC-1057,UPRAWNIENIA - synchronizacja API
+TC-1058,UPRAWNIENIA - walidacja odpowiedzi API
+TC-1059,UPRAWNIENIA - obsługa błędu API
+TC-1060,UPRAWNIENIA - reklamacja produktu
+TC-1061,UPRAWNIENIA - reklamacja płatności
+TC-1062,UPRAWNIENIA - naliczenie promocji
+TC-1063,UPRAWNIENIA - naliczenie rabatu
+TC-1064,UPRAWNIENIA - kupon rabatowy
+TC-1065,UPRAWNIENIA - integracja z SAP
+TC-1066,UPRAWNIENIA - integracja z CRM
+TC-1067,UPRAWNIENIA - integracja z bramką płatniczą
+TC-1068,KASA - sprzedaż gotówką dla klienta detalicznego
+TC-1069,BLIK - sprzedaż gotówką dla klienta detalicznego
+TC-1070,CRM - sprzedaż gotówką dla klienta detalicznego
+TC-1071,KSeF - sprzedaż gotówką dla klienta detalicznego
+TC-1072,CHECKOUT - sprzedaż gotówką dla klienta detalicznego
+TC-1073,KOSZYK - sprzedaż gotówką dla klienta detalicznego
+TC-1074,ADMIN - sprzedaż gotówką dla klienta detalicznego
+TC-1075,RAPORTY - sprzedaż gotówką dla klienta detalicznego
+TC-1076,REKLAMACJE - sprzedaż gotówką dla klienta detalicznego
+TC-1077,DOSTAWY - sprzedaż gotówką dla klienta detalicznego
+TC-1078,IMPORT - sprzedaż gotówką dla klienta detalicznego
+TC-1079,EKSPORT - sprzedaż gotówką dla klienta detalicznego
+TC-1080,UPRAWNIENIA - sprzedaż gotówką dla klienta detalicznego
+TC-1081,POS - sprzedaż gotówkowa dla klienta detalicznego
+TC-1082,BLIK - sprzedaż gotówkowa dla klienta detalicznego
+TC-1083,SAP - sprzedaż gotówkowa dla klienta detalicznego
+TC-1084,KSeF - sprzedaż gotówkowa dla klienta detalicznego
+TC-1085,MAGAZYN - sprzedaż gotówkowa dla klienta detalicznego
+TC-1086,KOSZYK - sprzedaż gotówkowa dla klienta detalicznego
+TC-1087,API - sprzedaż gotówkowa dla klienta detalicznego
+TC-1088,RAPORTY - sprzedaż gotówkowa dla klienta detalicznego
+TC-1089,PROMOCJE - sprzedaż gotówkowa dla klienta detalicznego
+TC-1090,DOSTAWY - sprzedaż gotówkowa dla klienta detalicznego
+TC-1091,INTEGRACJE - sprzedaż gotówkowa dla klienta detalicznego
+TC-1092,EKSPORT - sprzedaż gotówkowa dla klienta detalicznego
+TC-1093,UŻYTKOWNICY - sprzedaż gotówkowa dla klienta detalicznego
+TC-1094,POS - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1095,KASA - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1096,SAP - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1097,CRM - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1098,MAGAZYN - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1099,CHECKOUT - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1100,API - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1101,ADMIN - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1102,PROMOCJE - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1103,REKLAMACJE - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1104,INTEGRACJE - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1105,IMPORT - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1106,UŻYTKOWNICY - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1107,UPRAWNIENIA - sprzedaż kartą płatniczą dla klienta detalicznego
+TC-1108,KASA - sprzedaż z rabatem dla klienta detalicznego
+TC-1109,BLIK - sprzedaż z rabatem dla klienta detalicznego
+TC-1110,CRM - sprzedaż z rabatem dla klienta detalicznego
+TC-1111,KSeF - sprzedaż z rabatem dla klienta detalicznego
+TC-1112,CHECKOUT - sprzedaż z rabatem dla klienta detalicznego
+TC-1113,KOSZYK - sprzedaż z rabatem dla klienta detalicznego
+TC-1114,ADMIN - sprzedaż z rabatem dla klienta detalicznego
+TC-1115,RAPORTY - sprzedaż z rabatem dla klienta detalicznego
+TC-1116,REKLAMACJE - sprzedaż z rabatem dla klienta detalicznego
+TC-1117,DOSTAWY - sprzedaż z rabatem dla klienta detalicznego
+TC-1118,IMPORT - sprzedaż z rabatem dla klienta detalicznego
+TC-1119,EKSPORT - sprzedaż z rabatem dla klienta detalicznego
+TC-1120,UPRAWNIENIA - sprzedaż z rabatem dla klienta detalicznego
+TC-1121,POS - anulowanie sprzedaży dla klienta detalicznego
+TC-1122,BLIK - anulowanie sprzedaży dla klienta detalicznego
+TC-1123,SAP - anulowanie sprzedaży dla klienta detalicznego
+TC-1124,KSeF - anulowanie sprzedaży dla klienta detalicznego
+TC-1125,MAGAZYN - anulowanie sprzedaży dla klienta detalicznego
+TC-1126,KOSZYK - anulowanie sprzedaży dla klienta detalicznego
+TC-1127,API - anulowanie sprzedaży dla klienta detalicznego
+TC-1128,RAPORTY - anulowanie sprzedaży dla klienta detalicznego
+TC-1129,PROMOCJE - anulowanie sprzedaży dla klienta detalicznego
+TC-1130,DOSTAWY - anulowanie sprzedaży dla klienta detalicznego
+TC-1131,INTEGRACJE - anulowanie sprzedaży dla klienta detalicznego
+TC-1132,EKSPORT - anulowanie sprzedaży dla klienta detalicznego
+TC-1133,UŻYTKOWNICY - anulowanie sprzedaży dla klienta detalicznego
+TC-1134,POS - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1135,KASA - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1136,SAP - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1137,CRM - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1138,MAGAZYN - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1139,CHECKOUT - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1140,API - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1141,ADMIN - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1142,PROMOCJE - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1143,REKLAMACJE - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1144,INTEGRACJE - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1145,IMPORT - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1146,UŻYTKOWNICY - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1147,UPRAWNIENIA - zwrot sprzedaży gotówkowej dla klienta detalicznego
+TC-1148,KASA - zwrot na kartę dla klienta detalicznego
+TC-1149,BLIK - zwrot na kartę dla klienta detalicznego
+TC-1150,CRM - zwrot na kartę dla klienta detalicznego
+TC-1151,KSeF - zwrot na kartę dla klienta detalicznego
+TC-1152,CHECKOUT - zwrot na kartę dla klienta detalicznego
+TC-1153,KOSZYK - zwrot na kartę dla klienta detalicznego
+TC-1154,ADMIN - zwrot na kartę dla klienta detalicznego
+TC-1155,RAPORTY - zwrot na kartę dla klienta detalicznego
+TC-1156,REKLAMACJE - zwrot na kartę dla klienta detalicznego
+TC-1157,DOSTAWY - zwrot na kartę dla klienta detalicznego
+TC-1158,IMPORT - zwrot na kartę dla klienta detalicznego
+TC-1159,EKSPORT - zwrot na kartę dla klienta detalicznego
+TC-1160,UPRAWNIENIA - zwrot na kartę dla klienta detalicznego
+TC-1161,POS - płatność BLIK dla klienta detalicznego
+TC-1162,BLIK - płatność BLIK dla klienta detalicznego
+TC-1163,SAP - płatność BLIK dla klienta detalicznego
+TC-1164,KSeF - płatność BLIK dla klienta detalicznego
+TC-1165,MAGAZYN - płatność BLIK dla klienta detalicznego
+TC-1166,KOSZYK - płatność BLIK dla klienta detalicznego
+TC-1167,API - płatność BLIK dla klienta detalicznego
+TC-1168,RAPORTY - płatność BLIK dla klienta detalicznego
+TC-1169,PROMOCJE - płatność BLIK dla klienta detalicznego
+TC-1170,DOSTAWY - płatność BLIK dla klienta detalicznego
+TC-1171,INTEGRACJE - płatność BLIK dla klienta detalicznego
+TC-1172,EKSPORT - płatność BLIK dla klienta detalicznego
+TC-1173,UŻYTKOWNICY - płatność BLIK dla klienta detalicznego
+TC-1174,POS - płatność gotówką dla klienta detalicznego
+TC-1175,KASA - płatność gotówką dla klienta detalicznego
+TC-1176,SAP - płatność gotówką dla klienta detalicznego
+TC-1177,CRM - płatność gotówką dla klienta detalicznego
+TC-1178,MAGAZYN - płatność gotówką dla klienta detalicznego
+TC-1179,CHECKOUT - płatność gotówką dla klienta detalicznego
+TC-1180,API - płatność gotówką dla klienta detalicznego
+TC-1181,ADMIN - płatność gotówką dla klienta detalicznego
+TC-1182,PROMOCJE - płatność gotówką dla klienta detalicznego
+TC-1183,REKLAMACJE - płatność gotówką dla klienta detalicznego
+TC-1184,INTEGRACJE - płatność gotówką dla klienta detalicznego
+TC-1185,IMPORT - płatność gotówką dla klienta detalicznego
+TC-1186,UŻYTKOWNICY - płatność gotówką dla klienta detalicznego
+TC-1187,UPRAWNIENIA - płatność gotówką dla klienta detalicznego
+TC-1188,KASA - płatność kartą dla klienta detalicznego
+TC-1189,BLIK - płatność kartą dla klienta detalicznego
+TC-1190,CRM - płatność kartą dla klienta detalicznego
+TC-1191,KSeF - płatność kartą dla klienta detalicznego
+TC-1192,CHECKOUT - płatność kartą dla klienta detalicznego
+TC-1193,KOSZYK - płatność kartą dla klienta detalicznego
+TC-1194,ADMIN - płatność kartą dla klienta detalicznego
+TC-1195,RAPORTY - płatność kartą dla klienta detalicznego
+TC-1196,REKLAMACJE - płatność kartą dla klienta detalicznego
+TC-1197,DOSTAWY - płatność kartą dla klienta detalicznego
+TC-1198,IMPORT - płatność kartą dla klienta detalicznego
+TC-1199,EKSPORT - płatność kartą dla klienta detalicznego
+TC-1200,UPRAWNIENIA - płatność kartą dla klienta detalicznego
+TC-1201,POS - autoryzacja płatności dla klienta detalicznego
+TC-1202,BLIK - autoryzacja płatności dla klienta detalicznego
+TC-1203,SAP - autoryzacja płatności dla klienta detalicznego
+TC-1204,KSeF - autoryzacja płatności dla klienta detalicznego
+TC-1205,MAGAZYN - autoryzacja płatności dla klienta detalicznego
+TC-1206,KOSZYK - autoryzacja płatności dla klienta detalicznego
+TC-1207,API - autoryzacja płatności dla klienta detalicznego
+TC-1208,RAPORTY - autoryzacja płatności dla klienta detalicznego
+TC-1209,PROMOCJE - autoryzacja płatności dla klienta detalicznego
+TC-1210,DOSTAWY - autoryzacja płatności dla klienta detalicznego
+TC-1211,INTEGRACJE - autoryzacja płatności dla klienta detalicznego
+TC-1212,EKSPORT - autoryzacja płatności dla klienta detalicznego
+TC-1213,UŻYTKOWNICY - autoryzacja płatności dla klienta detalicznego
+TC-1214,POS - rozliczenie płatności dla klienta detalicznego
+TC-1215,KASA - rozliczenie płatności dla klienta detalicznego
+TC-1216,SAP - rozliczenie płatności dla klienta detalicznego
+TC-1217,CRM - rozliczenie płatności dla klienta detalicznego
+TC-1218,MAGAZYN - rozliczenie płatności dla klienta detalicznego
+TC-1219,CHECKOUT - rozliczenie płatności dla klienta detalicznego
+TC-1220,API - rozliczenie płatności dla klienta detalicznego
+TC-1221,ADMIN - rozliczenie płatności dla klienta detalicznego
+TC-1222,PROMOCJE - rozliczenie płatności dla klienta detalicznego
+TC-1223,REKLAMACJE - rozliczenie płatności dla klienta detalicznego
+TC-1224,INTEGRACJE - rozliczenie płatności dla klienta detalicznego
+TC-1225,IMPORT - rozliczenie płatności dla klienta detalicznego
+TC-1226,UŻYTKOWNICY - rozliczenie płatności dla klienta detalicznego
+TC-1227,UPRAWNIENIA - rozliczenie płatności dla klienta detalicznego
+TC-1228,KASA - księgowanie faktury dla klienta detalicznego
+TC-1229,BLIK - księgowanie faktury dla klienta detalicznego
+TC-1230,CRM - księgowanie faktury dla klienta detalicznego
+TC-1231,KSeF - księgowanie faktury dla klienta detalicznego
+TC-1232,CHECKOUT - księgowanie faktury dla klienta detalicznego
+TC-1233,KOSZYK - księgowanie faktury dla klienta detalicznego
+TC-1234,ADMIN - księgowanie faktury dla klienta detalicznego
+TC-1235,RAPORTY - księgowanie faktury dla klienta detalicznego
+TC-1236,REKLAMACJE - księgowanie faktury dla klienta detalicznego
+TC-1237,DOSTAWY - księgowanie faktury dla klienta detalicznego
+TC-1238,IMPORT - księgowanie faktury dla klienta detalicznego
+TC-1239,EKSPORT - księgowanie faktury dla klienta detalicznego
+TC-1240,UPRAWNIENIA - księgowanie faktury dla klienta detalicznego
+TC-1241,POS - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1242,BLIK - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1243,SAP - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1244,KSeF - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1245,MAGAZYN - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1246,KOSZYK - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1247,API - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1248,RAPORTY - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1249,PROMOCJE - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1250,DOSTAWY - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1251,INTEGRACJE - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1252,EKSPORT - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1253,UŻYTKOWNICY - wysłanie faktury do KSeF dla klienta detalicznego
+TC-1254,POS - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1255,KASA - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1256,SAP - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1257,CRM - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1258,MAGAZYN - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1259,CHECKOUT - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1260,API - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1261,ADMIN - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1262,PROMOCJE - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1263,REKLAMACJE - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1264,INTEGRACJE - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1265,IMPORT - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1266,UŻYTKOWNICY - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1267,UPRAWNIENIA - korekta faktury sprzedażowej dla klienta detalicznego
+TC-1268,KASA - utworzenie zamówienia dla klienta detalicznego
+TC-1269,BLIK - utworzenie zamówienia dla klienta detalicznego
+TC-1270,CRM - utworzenie zamówienia dla klienta detalicznego
+TC-1271,KSeF - utworzenie zamówienia dla klienta detalicznego
+TC-1272,CHECKOUT - utworzenie zamówienia dla klienta detalicznego
+TC-1273,KOSZYK - utworzenie zamówienia dla klienta detalicznego
+TC-1274,ADMIN - utworzenie zamówienia dla klienta detalicznego
+TC-1275,RAPORTY - utworzenie zamówienia dla klienta detalicznego
+TC-1276,REKLAMACJE - utworzenie zamówienia dla klienta detalicznego
+TC-1277,DOSTAWY - utworzenie zamówienia dla klienta detalicznego
+TC-1278,IMPORT - utworzenie zamówienia dla klienta detalicznego
+TC-1279,EKSPORT - utworzenie zamówienia dla klienta detalicznego
+TC-1280,UPRAWNIENIA - utworzenie zamówienia dla klienta detalicznego
+TC-1281,POS - edycja zamówienia dla klienta detalicznego
+TC-1282,BLIK - edycja zamówienia dla klienta detalicznego
+TC-1283,SAP - edycja zamówienia dla klienta detalicznego
+TC-1284,KSeF - edycja zamówienia dla klienta detalicznego
+TC-1285,MAGAZYN - edycja zamówienia dla klienta detalicznego
+TC-1286,KOSZYK - edycja zamówienia dla klienta detalicznego
+TC-1287,API - edycja zamówienia dla klienta detalicznego
+TC-1288,RAPORTY - edycja zamówienia dla klienta detalicznego
+TC-1289,PROMOCJE - edycja zamówienia dla klienta detalicznego
+TC-1290,DOSTAWY - edycja zamówienia dla klienta detalicznego
+TC-1291,INTEGRACJE - edycja zamówienia dla klienta detalicznego
+TC-1292,EKSPORT - edycja zamówienia dla klienta detalicznego
+TC-1293,UŻYTKOWNICY - edycja zamówienia dla klienta detalicznego
+TC-1294,POS - anulowanie zamówienia dla klienta detalicznego
+TC-1295,KASA - anulowanie zamówienia dla klienta detalicznego
+TC-1296,SAP - anulowanie zamówienia dla klienta detalicznego
+TC-1297,CRM - anulowanie zamówienia dla klienta detalicznego
+TC-1298,MAGAZYN - anulowanie zamówienia dla klienta detalicznego
+TC-1299,CHECKOUT - anulowanie zamówienia dla klienta detalicznego
+TC-1300,API - anulowanie zamówienia dla klienta detalicznego
+TC-1301,ADMIN - anulowanie zamówienia dla klienta detalicznego
+TC-1302,PROMOCJE - anulowanie zamówienia dla klienta detalicznego
+TC-1303,REKLAMACJE - anulowanie zamówienia dla klienta detalicznego
+TC-1304,INTEGRACJE - anulowanie zamówienia dla klienta detalicznego
+TC-1305,IMPORT - anulowanie zamówienia dla klienta detalicznego
+TC-1306,UŻYTKOWNICY - anulowanie zamówienia dla klienta detalicznego
+TC-1307,UPRAWNIENIA - anulowanie zamówienia dla klienta detalicznego
+TC-1308,KASA - realizacja zamówienia dla klienta detalicznego
+TC-1309,BLIK - realizacja zamówienia dla klienta detalicznego
+TC-1310,CRM - realizacja zamówienia dla klienta detalicznego
+TC-1311,KSeF - realizacja zamówienia dla klienta detalicznego
+TC-1312,CHECKOUT - realizacja zamówienia dla klienta detalicznego
+TC-1313,KOSZYK - realizacja zamówienia dla klienta detalicznego
+TC-1314,ADMIN - realizacja zamówienia dla klienta detalicznego
+TC-1315,RAPORTY - realizacja zamówienia dla klienta detalicznego
+TC-1316,REKLAMACJE - realizacja zamówienia dla klienta detalicznego
+TC-1317,DOSTAWY - realizacja zamówienia dla klienta detalicznego
+TC-1318,IMPORT - realizacja zamówienia dla klienta detalicznego
+TC-1319,EKSPORT - realizacja zamówienia dla klienta detalicznego
+TC-1320,UPRAWNIENIA - realizacja zamówienia dla klienta detalicznego
+TC-1321,POS - dodanie produktu do koszyka dla klienta detalicznego
+TC-1322,BLIK - dodanie produktu do koszyka dla klienta detalicznego
+TC-1323,SAP - dodanie produktu do koszyka dla klienta detalicznego
+TC-1324,KSeF - dodanie produktu do koszyka dla klienta detalicznego
+TC-1325,MAGAZYN - dodanie produktu do koszyka dla klienta detalicznego
+TC-1326,KOSZYK - dodanie produktu do koszyka dla klienta detalicznego
+TC-1327,API - dodanie produktu do koszyka dla klienta detalicznego
+TC-1328,RAPORTY - dodanie produktu do koszyka dla klienta detalicznego
+TC-1329,PROMOCJE - dodanie produktu do koszyka dla klienta detalicznego
+TC-1330,DOSTAWY - dodanie produktu do koszyka dla klienta detalicznego
+TC-1331,INTEGRACJE - dodanie produktu do koszyka dla klienta detalicznego
+TC-1332,EKSPORT - dodanie produktu do koszyka dla klienta detalicznego
+TC-1333,UŻYTKOWNICY - dodanie produktu do koszyka dla klienta detalicznego
+TC-1334,POS - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1335,KASA - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1336,SAP - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1337,CRM - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1338,MAGAZYN - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1339,CHECKOUT - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1340,API - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1341,ADMIN - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1342,PROMOCJE - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1343,REKLAMACJE - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1344,INTEGRACJE - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1345,IMPORT - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1346,UŻYTKOWNICY - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1347,UPRAWNIENIA - usunięcie produktu z koszyka dla klienta detalicznego
+TC-1348,KASA - checkout zamówienia dla klienta detalicznego
+TC-1349,BLIK - checkout zamówienia dla klienta detalicznego
+TC-1350,CRM - checkout zamówienia dla klienta detalicznego
+TC-1351,KSeF - checkout zamówienia dla klienta detalicznego
+TC-1352,CHECKOUT - checkout zamówienia dla klienta detalicznego
+TC-1353,KOSZYK - checkout zamówienia dla klienta detalicznego
+TC-1354,ADMIN - checkout zamówienia dla klienta detalicznego
+TC-1355,RAPORTY - checkout zamówienia dla klienta detalicznego
+TC-1356,REKLAMACJE - checkout zamówienia dla klienta detalicznego
+TC-1357,DOSTAWY - checkout zamówienia dla klienta detalicznego
+TC-1358,IMPORT - checkout zamówienia dla klienta detalicznego
+TC-1359,EKSPORT - checkout zamówienia dla klienta detalicznego
+TC-1360,UPRAWNIENIA - checkout zamówienia dla klienta detalicznego
+TC-1361,POS - utworzenie klienta dla klienta detalicznego
+TC-1362,BLIK - utworzenie klienta dla klienta detalicznego
+TC-1363,SAP - utworzenie klienta dla klienta detalicznego
+TC-1364,KSeF - utworzenie klienta dla klienta detalicznego
+TC-1365,MAGAZYN - utworzenie klienta dla klienta detalicznego
+TC-1366,KOSZYK - utworzenie klienta dla klienta detalicznego
+TC-1367,API - utworzenie klienta dla klienta detalicznego
+TC-1368,RAPORTY - utworzenie klienta dla klienta detalicznego
+TC-1369,PROMOCJE - utworzenie klienta dla klienta detalicznego
+TC-1370,DOSTAWY - utworzenie klienta dla klienta detalicznego
+TC-1371,INTEGRACJE - utworzenie klienta dla klienta detalicznego
+TC-1372,EKSPORT - utworzenie klienta dla klienta detalicznego
+TC-1373,UŻYTKOWNICY - utworzenie klienta dla klienta detalicznego
+TC-1374,POS - aktualizacja danych klienta dla klienta detalicznego
+TC-1375,KASA - aktualizacja danych klienta dla klienta detalicznego
+TC-1376,SAP - aktualizacja danych klienta dla klienta detalicznego
+TC-1377,CRM - aktualizacja danych klienta dla klienta detalicznego
+TC-1378,MAGAZYN - aktualizacja danych klienta dla klienta detalicznego
+TC-1379,CHECKOUT - aktualizacja danych klienta dla klienta detalicznego
+TC-1380,API - aktualizacja danych klienta dla klienta detalicznego
+TC-1381,ADMIN - aktualizacja danych klienta dla klienta detalicznego
+TC-1382,PROMOCJE - aktualizacja danych klienta dla klienta detalicznego
+TC-1383,REKLAMACJE - aktualizacja danych klienta dla klienta detalicznego
+TC-1384,INTEGRACJE - aktualizacja danych klienta dla klienta detalicznego
+TC-1385,IMPORT - aktualizacja danych klienta dla klienta detalicznego
+TC-1386,UŻYTKOWNICY - aktualizacja danych klienta dla klienta detalicznego
+TC-1387,UPRAWNIENIA - aktualizacja danych klienta dla klienta detalicznego
+TC-1388,KASA - wyszukiwanie klienta dla klienta detalicznego
+TC-1389,BLIK - wyszukiwanie klienta dla klienta detalicznego
+TC-1390,CRM - wyszukiwanie klienta dla klienta detalicznego
+TC-1391,KSeF - wyszukiwanie klienta dla klienta detalicznego
+TC-1392,CHECKOUT - wyszukiwanie klienta dla klienta detalicznego
+TC-1393,KOSZYK - wyszukiwanie klienta dla klienta detalicznego
+TC-1394,ADMIN - wyszukiwanie klienta dla klienta detalicznego
+TC-1395,RAPORTY - wyszukiwanie klienta dla klienta detalicznego
+TC-1396,REKLAMACJE - wyszukiwanie klienta dla klienta detalicznego
+TC-1397,DOSTAWY - wyszukiwanie klienta dla klienta detalicznego
+TC-1398,IMPORT - wyszukiwanie klienta dla klienta detalicznego
+TC-1399,EKSPORT - wyszukiwanie klienta dla klienta detalicznego
+TC-1400,UPRAWNIENIA - wyszukiwanie klienta dla klienta detalicznego
+TC-1401,POS - scalenie duplikatów klienta dla klienta detalicznego
+TC-1402,BLIK - scalenie duplikatów klienta dla klienta detalicznego
+TC-1403,SAP - scalenie duplikatów klienta dla klienta detalicznego
+TC-1404,KSeF - scalenie duplikatów klienta dla klienta detalicznego
+TC-1405,MAGAZYN - scalenie duplikatów klienta dla klienta detalicznego
+TC-1406,KOSZYK - scalenie duplikatów klienta dla klienta detalicznego
+TC-1407,API - scalenie duplikatów klienta dla klienta detalicznego
+TC-1408,RAPORTY - scalenie duplikatów klienta dla klienta detalicznego
+TC-1409,PROMOCJE - scalenie duplikatów klienta dla klienta detalicznego
+TC-1410,DOSTAWY - scalenie duplikatów klienta dla klienta detalicznego
+TC-1411,INTEGRACJE - scalenie duplikatów klienta dla klienta detalicznego
+TC-1412,EKSPORT - scalenie duplikatów klienta dla klienta detalicznego
+TC-1413,UŻYTKOWNICY - scalenie duplikatów klienta dla klienta detalicznego
+TC-1414,POS - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1415,KASA - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1416,SAP - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1417,CRM - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1418,MAGAZYN - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1419,CHECKOUT - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1420,API - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1421,ADMIN - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1422,PROMOCJE - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1423,REKLAMACJE - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1424,INTEGRACJE - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1425,IMPORT - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1426,UŻYTKOWNICY - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1427,UPRAWNIENIA - przyjęcie towaru do magazynu dla klienta detalicznego
+TC-1428,KASA - wydanie towaru z magazynu dla klienta detalicznego
+TC-1429,BLIK - wydanie towaru z magazynu dla klienta detalicznego
+TC-1430,CRM - wydanie towaru z magazynu dla klienta detalicznego
+TC-1431,KSeF - wydanie towaru z magazynu dla klienta detalicznego
+TC-1432,CHECKOUT - wydanie towaru z magazynu dla klienta detalicznego
+TC-1433,KOSZYK - wydanie towaru z magazynu dla klienta detalicznego
+TC-1434,ADMIN - wydanie towaru z magazynu dla klienta detalicznego
+TC-1435,RAPORTY - wydanie towaru z magazynu dla klienta detalicznego
+TC-1436,REKLAMACJE - wydanie towaru z magazynu dla klienta detalicznego
+TC-1437,DOSTAWY - wydanie towaru z magazynu dla klienta detalicznego
+TC-1438,IMPORT - wydanie towaru z magazynu dla klienta detalicznego
+TC-1439,EKSPORT - wydanie towaru z magazynu dla klienta detalicznego
+TC-1440,UPRAWNIENIA - wydanie towaru z magazynu dla klienta detalicznego
+TC-1441,POS - korekta stanu magazynowego dla klienta detalicznego
+TC-1442,BLIK - korekta stanu magazynowego dla klienta detalicznego
+TC-1443,SAP - korekta stanu magazynowego dla klienta detalicznego
+TC-1444,KSeF - korekta stanu magazynowego dla klienta detalicznego
+TC-1445,MAGAZYN - korekta stanu magazynowego dla klienta detalicznego
+TC-1446,KOSZYK - korekta stanu magazynowego dla klienta detalicznego
+TC-1447,API - korekta stanu magazynowego dla klienta detalicznego
+TC-1448,RAPORTY - korekta stanu magazynowego dla klienta detalicznego
+TC-1449,PROMOCJE - korekta stanu magazynowego dla klienta detalicznego
+TC-1450,DOSTAWY - korekta stanu magazynowego dla klienta detalicznego
+TC-1451,INTEGRACJE - korekta stanu magazynowego dla klienta detalicznego
+TC-1452,EKSPORT - korekta stanu magazynowego dla klienta detalicznego
+TC-1453,UŻYTKOWNICY - korekta stanu magazynowego dla klienta detalicznego
+TC-1454,POS - awizacja dostawy dla klienta detalicznego
+TC-1455,KASA - awizacja dostawy dla klienta detalicznego
+TC-1456,SAP - awizacja dostawy dla klienta detalicznego
+TC-1457,CRM - awizacja dostawy dla klienta detalicznego
+TC-1458,MAGAZYN - awizacja dostawy dla klienta detalicznego
+TC-1459,CHECKOUT - awizacja dostawy dla klienta detalicznego
+TC-1460,API - awizacja dostawy dla klienta detalicznego
+TC-1461,ADMIN - awizacja dostawy dla klienta detalicznego
+TC-1462,PROMOCJE - awizacja dostawy dla klienta detalicznego
+TC-1463,REKLAMACJE - awizacja dostawy dla klienta detalicznego
+TC-1464,INTEGRACJE - awizacja dostawy dla klienta detalicznego
+TC-1465,IMPORT - awizacja dostawy dla klienta detalicznego
+TC-1466,UŻYTKOWNICY - awizacja dostawy dla klienta detalicznego
+TC-1467,UPRAWNIENIA - awizacja dostawy dla klienta detalicznego
+TC-1468,KASA - potwierdzenie dostawy dla klienta detalicznego
+TC-1469,BLIK - potwierdzenie dostawy dla klienta detalicznego
+TC-1470,CRM - potwierdzenie dostawy dla klienta detalicznego
+TC-1471,KSeF - potwierdzenie dostawy dla klienta detalicznego
+TC-1472,CHECKOUT - potwierdzenie dostawy dla klienta detalicznego
+TC-1473,KOSZYK - potwierdzenie dostawy dla klienta detalicznego
+TC-1474,ADMIN - potwierdzenie dostawy dla klienta detalicznego
+TC-1475,RAPORTY - potwierdzenie dostawy dla klienta detalicznego
+TC-1476,REKLAMACJE - potwierdzenie dostawy dla klienta detalicznego
+TC-1477,DOSTAWY - potwierdzenie dostawy dla klienta detalicznego
+TC-1478,IMPORT - potwierdzenie dostawy dla klienta detalicznego
+TC-1479,EKSPORT - potwierdzenie dostawy dla klienta detalicznego
+TC-1480,UPRAWNIENIA - potwierdzenie dostawy dla klienta detalicznego
+TC-1481,POS - opóźniona dostawa dla klienta detalicznego
+TC-1482,BLIK - opóźniona dostawa dla klienta detalicznego
+TC-1483,SAP - opóźniona dostawa dla klienta detalicznego
+TC-1484,KSeF - opóźniona dostawa dla klienta detalicznego
+TC-1485,MAGAZYN - opóźniona dostawa dla klienta detalicznego
+TC-1486,KOSZYK - opóźniona dostawa dla klienta detalicznego
+TC-1487,API - opóźniona dostawa dla klienta detalicznego
+TC-1488,RAPORTY - opóźniona dostawa dla klienta detalicznego
+TC-1489,PROMOCJE - opóźniona dostawa dla klienta detalicznego
+TC-1490,DOSTAWY - opóźniona dostawa dla klienta detalicznego
+TC-1491,INTEGRACJE - opóźniona dostawa dla klienta detalicznego
+TC-1492,EKSPORT - opóźniona dostawa dla klienta detalicznego
+TC-1493,UŻYTKOWNICY - opóźniona dostawa dla klienta detalicznego
+TC-1494,POS - logowanie użytkownika dla klienta detalicznego
+TC-1495,KASA - logowanie użytkownika dla klienta detalicznego
+TC-1496,SAP - logowanie użytkownika dla klienta detalicznego
+TC-1497,CRM - logowanie użytkownika dla klienta detalicznego
+TC-1498,MAGAZYN - logowanie użytkownika dla klienta detalicznego
+TC-1499,CHECKOUT - logowanie użytkownika dla klienta detalicznego
+TC-1500,API - logowanie użytkownika dla klienta detalicznego
+TC-1501,ADMIN - logowanie użytkownika dla klienta detalicznego
+TC-1502,PROMOCJE - logowanie użytkownika dla klienta detalicznego
+TC-1503,REKLAMACJE - logowanie użytkownika dla klienta detalicznego
+TC-1504,INTEGRACJE - logowanie użytkownika dla klienta detalicznego
+TC-1505,IMPORT - logowanie użytkownika dla klienta detalicznego
+TC-1506,UŻYTKOWNICY - logowanie użytkownika dla klienta detalicznego
+TC-1507,UPRAWNIENIA - logowanie użytkownika dla klienta detalicznego
+TC-1508,KASA - reset hasła dla klienta detalicznego
+TC-1509,BLIK - reset hasła dla klienta detalicznego
+TC-1510,CRM - reset hasła dla klienta detalicznego
+TC-1511,KSeF - reset hasła dla klienta detalicznego
+TC-1512,CHECKOUT - reset hasła dla klienta detalicznego
+TC-1513,KOSZYK - reset hasła dla klienta detalicznego
+TC-1514,ADMIN - reset hasła dla klienta detalicznego
+TC-1515,RAPORTY - reset hasła dla klienta detalicznego
+TC-1516,REKLAMACJE - reset hasła dla klienta detalicznego
+TC-1517,DOSTAWY - reset hasła dla klienta detalicznego
+TC-1518,IMPORT - reset hasła dla klienta detalicznego
+TC-1519,EKSPORT - reset hasła dla klienta detalicznego
+TC-1520,UPRAWNIENIA - reset hasła dla klienta detalicznego
+TC-1521,POS - blokada konta użytkownika dla klienta detalicznego
+TC-1522,BLIK - blokada konta użytkownika dla klienta detalicznego
+TC-1523,SAP - blokada konta użytkownika dla klienta detalicznego
+TC-1524,KSeF - blokada konta użytkownika dla klienta detalicznego
+TC-1525,MAGAZYN - blokada konta użytkownika dla klienta detalicznego
+TC-1526,KOSZYK - blokada konta użytkownika dla klienta detalicznego
+TC-1527,API - blokada konta użytkownika dla klienta detalicznego
+TC-1528,RAPORTY - blokada konta użytkownika dla klienta detalicznego
+TC-1529,PROMOCJE - blokada konta użytkownika dla klienta detalicznego
+TC-1530,DOSTAWY - blokada konta użytkownika dla klienta detalicznego
+TC-1531,INTEGRACJE - blokada konta użytkownika dla klienta detalicznego
+TC-1532,EKSPORT - blokada konta użytkownika dla klienta detalicznego
+TC-1533,UŻYTKOWNICY - blokada konta użytkownika dla klienta detalicznego
+TC-1534,POS - nadanie uprawnień dla klienta detalicznego
+TC-1535,KASA - nadanie uprawnień dla klienta detalicznego
+TC-1536,SAP - nadanie uprawnień dla klienta detalicznego
+TC-1537,CRM - nadanie uprawnień dla klienta detalicznego
+TC-1538,MAGAZYN - nadanie uprawnień dla klienta detalicznego
+TC-1539,CHECKOUT - nadanie uprawnień dla klienta detalicznego
+TC-1540,API - nadanie uprawnień dla klienta detalicznego
+TC-1541,ADMIN - nadanie uprawnień dla klienta detalicznego
+TC-1542,PROMOCJE - nadanie uprawnień dla klienta detalicznego
+TC-1543,REKLAMACJE - nadanie uprawnień dla klienta detalicznego
+TC-1544,INTEGRACJE - nadanie uprawnień dla klienta detalicznego
+TC-1545,IMPORT - nadanie uprawnień dla klienta detalicznego
+TC-1546,UŻYTKOWNICY - nadanie uprawnień dla klienta detalicznego
+TC-1547,UPRAWNIENIA - nadanie uprawnień dla klienta detalicznego
+TC-1548,KASA - odebranie uprawnień dla klienta detalicznego
+TC-1549,BLIK - odebranie uprawnień dla klienta detalicznego
+TC-1550,CRM - odebranie uprawnień dla klienta detalicznego
+TC-1551,KSeF - odebranie uprawnień dla klienta detalicznego
+TC-1552,CHECKOUT - odebranie uprawnień dla klienta detalicznego
+TC-1553,KOSZYK - odebranie uprawnień dla klienta detalicznego
+TC-1554,ADMIN - odebranie uprawnień dla klienta detalicznego
+TC-1555,RAPORTY - odebranie uprawnień dla klienta detalicznego
+TC-1556,REKLAMACJE - odebranie uprawnień dla klienta detalicznego
+TC-1557,DOSTAWY - odebranie uprawnień dla klienta detalicznego
+TC-1558,IMPORT - odebranie uprawnień dla klienta detalicznego
+TC-1559,EKSPORT - odebranie uprawnień dla klienta detalicznego
+TC-1560,UPRAWNIENIA - odebranie uprawnień dla klienta detalicznego
+TC-1561,POS - raport sprzedaży dla klienta detalicznego
+TC-1562,BLIK - raport sprzedaży dla klienta detalicznego
+TC-1563,SAP - raport sprzedaży dla klienta detalicznego
+TC-1564,KSeF - raport sprzedaży dla klienta detalicznego
+TC-1565,MAGAZYN - raport sprzedaży dla klienta detalicznego
+TC-1566,KOSZYK - raport sprzedaży dla klienta detalicznego
+TC-1567,API - raport sprzedaży dla klienta detalicznego
+TC-1568,RAPORTY - raport sprzedaży dla klienta detalicznego
+TC-1569,PROMOCJE - raport sprzedaży dla klienta detalicznego
+TC-1570,DOSTAWY - raport sprzedaży dla klienta detalicznego
+TC-1571,INTEGRACJE - raport sprzedaży dla klienta detalicznego
+TC-1572,EKSPORT - raport sprzedaży dla klienta detalicznego
+TC-1573,UŻYTKOWNICY - raport sprzedaży dla klienta detalicznego
+TC-1574,POS - raport płatności dla klienta detalicznego
+TC-1575,KASA - raport płatności dla klienta detalicznego
+TC-1576,SAP - raport płatności dla klienta detalicznego
+TC-1577,CRM - raport płatności dla klienta detalicznego
+TC-1578,MAGAZYN - raport płatności dla klienta detalicznego
+TC-1579,CHECKOUT - raport płatności dla klienta detalicznego
+TC-1580,API - raport płatności dla klienta detalicznego
+TC-1581,ADMIN - raport płatności dla klienta detalicznego
+TC-1582,PROMOCJE - raport płatności dla klienta detalicznego
+TC-1583,REKLAMACJE - raport płatności dla klienta detalicznego
+TC-1584,INTEGRACJE - raport płatności dla klienta detalicznego
+TC-1585,IMPORT - raport płatności dla klienta detalicznego
+TC-1586,UŻYTKOWNICY - raport płatności dla klienta detalicznego
+TC-1587,UPRAWNIENIA - raport płatności dla klienta detalicznego
+TC-1588,KASA - eksport raportu dla klienta detalicznego
+TC-1589,BLIK - eksport raportu dla klienta detalicznego
+TC-1590,CRM - eksport raportu dla klienta detalicznego
+TC-1591,KSeF - eksport raportu dla klienta detalicznego
+TC-1592,CHECKOUT - eksport raportu dla klienta detalicznego
+TC-1593,KOSZYK - eksport raportu dla klienta detalicznego
+TC-1594,ADMIN - eksport raportu dla klienta detalicznego
+TC-1595,RAPORTY - eksport raportu dla klienta detalicznego
+TC-1596,REKLAMACJE - eksport raportu dla klienta detalicznego
+TC-1597,DOSTAWY - eksport raportu dla klienta detalicznego
+TC-1598,IMPORT - eksport raportu dla klienta detalicznego
+TC-1599,EKSPORT - eksport raportu dla klienta detalicznego
+TC-1600,UPRAWNIENIA - eksport raportu dla klienta detalicznego
+TC-1601,POS - import danych klientów dla klienta detalicznego
+TC-1602,BLIK - import danych klientów dla klienta detalicznego
+TC-1603,SAP - import danych klientów dla klienta detalicznego
+TC-1604,KSeF - import danych klientów dla klienta detalicznego
+TC-1605,MAGAZYN - import danych klientów dla klienta detalicznego
+TC-1606,KOSZYK - import danych klientów dla klienta detalicznego
+TC-1607,API - import danych klientów dla klienta detalicznego
+TC-1608,RAPORTY - import danych klientów dla klienta detalicznego
+TC-1609,PROMOCJE - import danych klientów dla klienta detalicznego
+TC-1610,DOSTAWY - import danych klientów dla klienta detalicznego
+TC-1611,INTEGRACJE - import danych klientów dla klienta detalicznego
+TC-1612,EKSPORT - import danych klientów dla klienta detalicznego
+TC-1613,UŻYTKOWNICY - import danych klientów dla klienta detalicznego
+TC-1614,POS - eksport danych zamówień dla klienta detalicznego
+TC-1615,KASA - eksport danych zamówień dla klienta detalicznego
+TC-1616,SAP - eksport danych zamówień dla klienta detalicznego
+TC-1617,CRM - eksport danych zamówień dla klienta detalicznego
+TC-1618,MAGAZYN - eksport danych zamówień dla klienta detalicznego
+TC-1619,CHECKOUT - eksport danych zamówień dla klienta detalicznego
+TC-1620,API - eksport danych zamówień dla klienta detalicznego
+TC-1621,ADMIN - eksport danych zamówień dla klienta detalicznego
+TC-1622,PROMOCJE - eksport danych zamówień dla klienta detalicznego
+TC-1623,REKLAMACJE - eksport danych zamówień dla klienta detalicznego
+TC-1624,INTEGRACJE - eksport danych zamówień dla klienta detalicznego
+TC-1625,IMPORT - eksport danych zamówień dla klienta detalicznego
+TC-1626,UŻYTKOWNICY - eksport danych zamówień dla klienta detalicznego
+TC-1627,UPRAWNIENIA - eksport danych zamówień dla klienta detalicznego
+TC-1628,KASA - synchronizacja API dla klienta detalicznego
+TC-1629,BLIK - synchronizacja API dla klienta detalicznego
+TC-1630,CRM - synchronizacja API dla klienta detalicznego
+TC-1631,KSeF - synchronizacja API dla klienta detalicznego
+TC-1632,CHECKOUT - synchronizacja API dla klienta detalicznego
+TC-1633,KOSZYK - synchronizacja API dla klienta detalicznego
+TC-1634,ADMIN - synchronizacja API dla klienta detalicznego
+TC-1635,RAPORTY - synchronizacja API dla klienta detalicznego
+TC-1636,REKLAMACJE - synchronizacja API dla klienta detalicznego
+TC-1637,DOSTAWY - synchronizacja API dla klienta detalicznego
+TC-1638,IMPORT - synchronizacja API dla klienta detalicznego
+TC-1639,EKSPORT - synchronizacja API dla klienta detalicznego
+TC-1640,UPRAWNIENIA - synchronizacja API dla klienta detalicznego
+TC-1641,POS - walidacja odpowiedzi API dla klienta detalicznego
+TC-1642,BLIK - walidacja odpowiedzi API dla klienta detalicznego
+TC-1643,SAP - walidacja odpowiedzi API dla klienta detalicznego
+TC-1644,KSeF - walidacja odpowiedzi API dla klienta detalicznego
+TC-1645,MAGAZYN - walidacja odpowiedzi API dla klienta detalicznego
+TC-1646,KOSZYK - walidacja odpowiedzi API dla klienta detalicznego
+TC-1647,API - walidacja odpowiedzi API dla klienta detalicznego
+TC-1648,RAPORTY - walidacja odpowiedzi API dla klienta detalicznego
+TC-1649,PROMOCJE - walidacja odpowiedzi API dla klienta detalicznego
+TC-1650,DOSTAWY - walidacja odpowiedzi API dla klienta detalicznego
+TC-1651,INTEGRACJE - walidacja odpowiedzi API dla klienta detalicznego
+TC-1652,EKSPORT - walidacja odpowiedzi API dla klienta detalicznego
+TC-1653,UŻYTKOWNICY - walidacja odpowiedzi API dla klienta detalicznego
+TC-1654,POS - obsługa błędu API dla klienta detalicznego
+TC-1655,KASA - obsługa błędu API dla klienta detalicznego
+TC-1656,SAP - obsługa błędu API dla klienta detalicznego
+TC-1657,CRM - obsługa błędu API dla klienta detalicznego
+TC-1658,MAGAZYN - obsługa błędu API dla klienta detalicznego
+TC-1659,CHECKOUT - obsługa błędu API dla klienta detalicznego
+TC-1660,API - obsługa błędu API dla klienta detalicznego
+TC-1661,ADMIN - obsługa błędu API dla klienta detalicznego
+TC-1662,PROMOCJE - obsługa błędu API dla klienta detalicznego
+TC-1663,REKLAMACJE - obsługa błędu API dla klienta detalicznego
+TC-1664,INTEGRACJE - obsługa błędu API dla klienta detalicznego
+TC-1665,IMPORT - obsługa błędu API dla klienta detalicznego
+TC-1666,UŻYTKOWNICY - obsługa błędu API dla klienta detalicznego
+TC-1667,UPRAWNIENIA - obsługa błędu API dla klienta detalicznego
+TC-1668,KASA - reklamacja produktu dla klienta detalicznego
+TC-1669,BLIK - reklamacja produktu dla klienta detalicznego
+TC-1670,CRM - reklamacja produktu dla klienta detalicznego
+TC-1671,KSeF - reklamacja produktu dla klienta detalicznego
+TC-1672,CHECKOUT - reklamacja produktu dla klienta detalicznego
+TC-1673,KOSZYK - reklamacja produktu dla klienta detalicznego
+TC-1674,ADMIN - reklamacja produktu dla klienta detalicznego
+TC-1675,RAPORTY - reklamacja produktu dla klienta detalicznego
+TC-1676,REKLAMACJE - reklamacja produktu dla klienta detalicznego
+TC-1677,DOSTAWY - reklamacja produktu dla klienta detalicznego
+TC-1678,IMPORT - reklamacja produktu dla klienta detalicznego
+TC-1679,EKSPORT - reklamacja produktu dla klienta detalicznego
+TC-1680,UPRAWNIENIA - reklamacja produktu dla klienta detalicznego
+TC-1681,POS - reklamacja płatności dla klienta detalicznego
+TC-1682,BLIK - reklamacja płatności dla klienta detalicznego
+TC-1683,SAP - reklamacja płatności dla klienta detalicznego
+TC-1684,KSeF - reklamacja płatności dla klienta detalicznego
+TC-1685,MAGAZYN - reklamacja płatności dla klienta detalicznego
+TC-1686,KOSZYK - reklamacja płatności dla klienta detalicznego
+TC-1687,API - reklamacja płatności dla klienta detalicznego
+TC-1688,RAPORTY - reklamacja płatności dla klienta detalicznego
+TC-1689,PROMOCJE - reklamacja płatności dla klienta detalicznego
+TC-1690,DOSTAWY - reklamacja płatności dla klienta detalicznego
+TC-1691,INTEGRACJE - reklamacja płatności dla klienta detalicznego
+TC-1692,EKSPORT - reklamacja płatności dla klienta detalicznego
+TC-1693,UŻYTKOWNICY - reklamacja płatności dla klienta detalicznego
+TC-1694,POS - naliczenie promocji dla klienta detalicznego
+TC-1695,KASA - naliczenie promocji dla klienta detalicznego
+TC-1696,SAP - naliczenie promocji dla klienta detalicznego
+TC-1697,CRM - naliczenie promocji dla klienta detalicznego
+TC-1698,MAGAZYN - naliczenie promocji dla klienta detalicznego
+TC-1699,CHECKOUT - naliczenie promocji dla klienta detalicznego
+TC-1700,API - naliczenie promocji dla klienta detalicznego
+TC-1701,ADMIN - naliczenie promocji dla klienta detalicznego
+TC-1702,PROMOCJE - naliczenie promocji dla klienta detalicznego
+TC-1703,REKLAMACJE - naliczenie promocji dla klienta detalicznego
+TC-1704,INTEGRACJE - naliczenie promocji dla klienta detalicznego
+TC-1705,IMPORT - naliczenie promocji dla klienta detalicznego
+TC-1706,UŻYTKOWNICY - naliczenie promocji dla klienta detalicznego
+TC-1707,UPRAWNIENIA - naliczenie promocji dla klienta detalicznego
+TC-1708,KASA - naliczenie rabatu dla klienta detalicznego
+TC-1709,BLIK - naliczenie rabatu dla klienta detalicznego
+TC-1710,CRM - naliczenie rabatu dla klienta detalicznego
+TC-1711,KSeF - naliczenie rabatu dla klienta detalicznego
+TC-1712,CHECKOUT - naliczenie rabatu dla klienta detalicznego
+TC-1713,KOSZYK - naliczenie rabatu dla klienta detalicznego
+TC-1714,ADMIN - naliczenie rabatu dla klienta detalicznego
+TC-1715,RAPORTY - naliczenie rabatu dla klienta detalicznego
+TC-1716,REKLAMACJE - naliczenie rabatu dla klienta detalicznego
+TC-1717,DOSTAWY - naliczenie rabatu dla klienta detalicznego
+TC-1718,IMPORT - naliczenie rabatu dla klienta detalicznego
+TC-1719,EKSPORT - naliczenie rabatu dla klienta detalicznego
+TC-1720,UPRAWNIENIA - naliczenie rabatu dla klienta detalicznego
+TC-1721,POS - kupon rabatowy dla klienta detalicznego
+TC-1722,BLIK - kupon rabatowy dla klienta detalicznego
+TC-1723,SAP - kupon rabatowy dla klienta detalicznego
+TC-1724,KSeF - kupon rabatowy dla klienta detalicznego
+TC-1725,MAGAZYN - kupon rabatowy dla klienta detalicznego
+TC-1726,KOSZYK - kupon rabatowy dla klienta detalicznego
+TC-1727,API - kupon rabatowy dla klienta detalicznego
+TC-1728,RAPORTY - kupon rabatowy dla klienta detalicznego
+TC-1729,PROMOCJE - kupon rabatowy dla klienta detalicznego
+TC-1730,DOSTAWY - kupon rabatowy dla klienta detalicznego
+TC-1731,INTEGRACJE - kupon rabatowy dla klienta detalicznego
+TC-1732,EKSPORT - kupon rabatowy dla klienta detalicznego
+TC-1733,UŻYTKOWNICY - kupon rabatowy dla klienta detalicznego
+TC-1734,POS - integracja z SAP dla klienta detalicznego
+TC-1735,KASA - integracja z SAP dla klienta detalicznego
+TC-1736,SAP - integracja z SAP dla klienta detalicznego
+TC-1737,CRM - integracja z SAP dla klienta detalicznego
+TC-1738,MAGAZYN - integracja z SAP dla klienta detalicznego
+TC-1739,CHECKOUT - integracja z SAP dla klienta detalicznego
+TC-1740,API - integracja z SAP dla klienta detalicznego
+TC-1741,ADMIN - integracja z SAP dla klienta detalicznego
+TC-1742,PROMOCJE - integracja z SAP dla klienta detalicznego
+TC-1743,REKLAMACJE - integracja z SAP dla klienta detalicznego
+TC-1744,INTEGRACJE - integracja z SAP dla klienta detalicznego
+TC-1745,IMPORT - integracja z SAP dla klienta detalicznego
+TC-1746,UŻYTKOWNICY - integracja z SAP dla klienta detalicznego
+TC-1747,UPRAWNIENIA - integracja z SAP dla klienta detalicznego
+TC-1748,KASA - integracja z CRM dla klienta detalicznego
+TC-1749,BLIK - integracja z CRM dla klienta detalicznego
+TC-1750,CRM - integracja z CRM dla klienta detalicznego
+TC-1751,KSeF - integracja z CRM dla klienta detalicznego
+TC-1752,CHECKOUT - integracja z CRM dla klienta detalicznego
+TC-1753,KOSZYK - integracja z CRM dla klienta detalicznego
+TC-1754,ADMIN - integracja z CRM dla klienta detalicznego
+TC-1755,RAPORTY - integracja z CRM dla klienta detalicznego
+TC-1756,REKLAMACJE - integracja z CRM dla klienta detalicznego
+TC-1757,DOSTAWY - integracja z CRM dla klienta detalicznego
+TC-1758,IMPORT - integracja z CRM dla klienta detalicznego
+TC-1759,EKSPORT - integracja z CRM dla klienta detalicznego
+TC-1760,UPRAWNIENIA - integracja z CRM dla klienta detalicznego
+TC-1761,POS - integracja z bramką płatniczą dla klienta detalicznego
+TC-1762,BLIK - integracja z bramką płatniczą dla klienta detalicznego
+TC-1763,SAP - integracja z bramką płatniczą dla klienta detalicznego
+TC-1764,KSeF - integracja z bramką płatniczą dla klienta detalicznego
+TC-1765,MAGAZYN - integracja z bramką płatniczą dla klienta detalicznego
+TC-1766,KOSZYK - integracja z bramką płatniczą dla klienta detalicznego
+TC-1767,API - integracja z bramką płatniczą dla klienta detalicznego
+TC-1768,RAPORTY - integracja z bramką płatniczą dla klienta detalicznego
+TC-1769,PROMOCJE - integracja z bramką płatniczą dla klienta detalicznego
+TC-1770,DOSTAWY - integracja z bramką płatniczą dla klienta detalicznego
+TC-1771,INTEGRACJE - integracja z bramką płatniczą dla klienta detalicznego
+TC-1772,EKSPORT - integracja z bramką płatniczą dla klienta detalicznego
+TC-1773,UŻYTKOWNICY - integracja z bramką płatniczą dla klienta detalicznego
+TC-1774,POS - sprzedaż gotówką dla klienta firmowego
+TC-1775,KASA - sprzedaż gotówką dla klienta firmowego
+TC-1776,SAP - sprzedaż gotówką dla klienta firmowego
+TC-1777,CRM - sprzedaż gotówką dla klienta firmowego
+TC-1778,MAGAZYN - sprzedaż gotówką dla klienta firmowego
+TC-1779,CHECKOUT - sprzedaż gotówką dla klienta firmowego
+TC-1780,API - sprzedaż gotówką dla klienta firmowego
+TC-1781,ADMIN - sprzedaż gotówką dla klienta firmowego
+TC-1782,PROMOCJE - sprzedaż gotówką dla klienta firmowego
+TC-1783,REKLAMACJE - sprzedaż gotówką dla klienta firmowego
+TC-1784,INTEGRACJE - sprzedaż gotówką dla klienta firmowego
+TC-1785,IMPORT - sprzedaż gotówką dla klienta firmowego
+TC-1786,UŻYTKOWNICY - sprzedaż gotówką dla klienta firmowego
+TC-1787,UPRAWNIENIA - sprzedaż gotówką dla klienta firmowego
+TC-1788,KASA - sprzedaż gotówkowa dla klienta firmowego
+TC-1789,BLIK - sprzedaż gotówkowa dla klienta firmowego
+TC-1790,CRM - sprzedaż gotówkowa dla klienta firmowego
+TC-1791,KSeF - sprzedaż gotówkowa dla klienta firmowego
+TC-1792,CHECKOUT - sprzedaż gotówkowa dla klienta firmowego
+TC-1793,KOSZYK - sprzedaż gotówkowa dla klienta firmowego
+TC-1794,ADMIN - sprzedaż gotówkowa dla klienta firmowego
+TC-1795,RAPORTY - sprzedaż gotówkowa dla klienta firmowego
+TC-1796,REKLAMACJE - sprzedaż gotówkowa dla klienta firmowego
+TC-1797,DOSTAWY - sprzedaż gotówkowa dla klienta firmowego
+TC-1798,IMPORT - sprzedaż gotówkowa dla klienta firmowego
+TC-1799,EKSPORT - sprzedaż gotówkowa dla klienta firmowego
+TC-1800,UPRAWNIENIA - sprzedaż gotówkowa dla klienta firmowego
+TC-1801,POS - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1802,BLIK - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1803,SAP - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1804,KSeF - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1805,MAGAZYN - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1806,KOSZYK - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1807,API - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1808,RAPORTY - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1809,PROMOCJE - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1810,DOSTAWY - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1811,INTEGRACJE - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1812,EKSPORT - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1813,UŻYTKOWNICY - sprzedaż kartą płatniczą dla klienta firmowego
+TC-1814,POS - sprzedaż z rabatem dla klienta firmowego
+TC-1815,KASA - sprzedaż z rabatem dla klienta firmowego
+TC-1816,SAP - sprzedaż z rabatem dla klienta firmowego
+TC-1817,CRM - sprzedaż z rabatem dla klienta firmowego
+TC-1818,MAGAZYN - sprzedaż z rabatem dla klienta firmowego
+TC-1819,CHECKOUT - sprzedaż z rabatem dla klienta firmowego
+TC-1820,API - sprzedaż z rabatem dla klienta firmowego
+TC-1821,ADMIN - sprzedaż z rabatem dla klienta firmowego
+TC-1822,PROMOCJE - sprzedaż z rabatem dla klienta firmowego
+TC-1823,REKLAMACJE - sprzedaż z rabatem dla klienta firmowego
+TC-1824,INTEGRACJE - sprzedaż z rabatem dla klienta firmowego
+TC-1825,IMPORT - sprzedaż z rabatem dla klienta firmowego
+TC-1826,UŻYTKOWNICY - sprzedaż z rabatem dla klienta firmowego
+TC-1827,UPRAWNIENIA - sprzedaż z rabatem dla klienta firmowego
+TC-1828,KASA - anulowanie sprzedaży dla klienta firmowego
+TC-1829,BLIK - anulowanie sprzedaży dla klienta firmowego
+TC-1830,CRM - anulowanie sprzedaży dla klienta firmowego
+TC-1831,KSeF - anulowanie sprzedaży dla klienta firmowego
+TC-1832,CHECKOUT - anulowanie sprzedaży dla klienta firmowego
+TC-1833,KOSZYK - anulowanie sprzedaży dla klienta firmowego
+TC-1834,ADMIN - anulowanie sprzedaży dla klienta firmowego
+TC-1835,RAPORTY - anulowanie sprzedaży dla klienta firmowego
+TC-1836,REKLAMACJE - anulowanie sprzedaży dla klienta firmowego
+TC-1837,DOSTAWY - anulowanie sprzedaży dla klienta firmowego
+TC-1838,IMPORT - anulowanie sprzedaży dla klienta firmowego
+TC-1839,EKSPORT - anulowanie sprzedaży dla klienta firmowego
+TC-1840,UPRAWNIENIA - anulowanie sprzedaży dla klienta firmowego
+TC-1841,POS - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1842,BLIK - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1843,SAP - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1844,KSeF - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1845,MAGAZYN - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1846,KOSZYK - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1847,API - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1848,RAPORTY - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1849,PROMOCJE - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1850,DOSTAWY - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1851,INTEGRACJE - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1852,EKSPORT - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1853,UŻYTKOWNICY - zwrot sprzedaży gotówkowej dla klienta firmowego
+TC-1854,POS - zwrot na kartę dla klienta firmowego
+TC-1855,KASA - zwrot na kartę dla klienta firmowego
+TC-1856,SAP - zwrot na kartę dla klienta firmowego
+TC-1857,CRM - zwrot na kartę dla klienta firmowego
+TC-1858,MAGAZYN - zwrot na kartę dla klienta firmowego
+TC-1859,CHECKOUT - zwrot na kartę dla klienta firmowego
+TC-1860,API - zwrot na kartę dla klienta firmowego
+TC-1861,ADMIN - zwrot na kartę dla klienta firmowego
+TC-1862,PROMOCJE - zwrot na kartę dla klienta firmowego
+TC-1863,REKLAMACJE - zwrot na kartę dla klienta firmowego
+TC-1864,INTEGRACJE - zwrot na kartę dla klienta firmowego
+TC-1865,IMPORT - zwrot na kartę dla klienta firmowego
+TC-1866,UŻYTKOWNICY - zwrot na kartę dla klienta firmowego
+TC-1867,UPRAWNIENIA - zwrot na kartę dla klienta firmowego
+TC-1868,KASA - płatność BLIK dla klienta firmowego
+TC-1869,BLIK - płatność BLIK dla klienta firmowego
+TC-1870,CRM - płatność BLIK dla klienta firmowego
+TC-1871,KSeF - płatność BLIK dla klienta firmowego
+TC-1872,CHECKOUT - płatność BLIK dla klienta firmowego
+TC-1873,KOSZYK - płatność BLIK dla klienta firmowego
+TC-1874,ADMIN - płatność BLIK dla klienta firmowego
+TC-1875,RAPORTY - płatność BLIK dla klienta firmowego
+TC-1876,REKLAMACJE - płatność BLIK dla klienta firmowego
+TC-1877,DOSTAWY - płatność BLIK dla klienta firmowego
+TC-1878,IMPORT - płatność BLIK dla klienta firmowego
+TC-1879,EKSPORT - płatność BLIK dla klienta firmowego
+TC-1880,UPRAWNIENIA - płatność BLIK dla klienta firmowego
+TC-1881,POS - płatność gotówką dla klienta firmowego
+TC-1882,BLIK - płatność gotówką dla klienta firmowego
+TC-1883,SAP - płatność gotówką dla klienta firmowego
+TC-1884,KSeF - płatność gotówką dla klienta firmowego
+TC-1885,MAGAZYN - płatność gotówką dla klienta firmowego
+TC-1886,KOSZYK - płatność gotówką dla klienta firmowego
+TC-1887,API - płatność gotówką dla klienta firmowego
+TC-1888,RAPORTY - płatność gotówką dla klienta firmowego
+TC-1889,PROMOCJE - płatność gotówką dla klienta firmowego
+TC-1890,DOSTAWY - płatność gotówką dla klienta firmowego
+TC-1891,INTEGRACJE - płatność gotówką dla klienta firmowego
+TC-1892,EKSPORT - płatność gotówką dla klienta firmowego
+TC-1893,UŻYTKOWNICY - płatność gotówką dla klienta firmowego
+TC-1894,POS - płatność kartą dla klienta firmowego
+TC-1895,KASA - płatność kartą dla klienta firmowego
+TC-1896,SAP - płatność kartą dla klienta firmowego
+TC-1897,CRM - płatność kartą dla klienta firmowego
+TC-1898,MAGAZYN - płatność kartą dla klienta firmowego
+TC-1899,CHECKOUT - płatność kartą dla klienta firmowego
+TC-1900,API - płatność kartą dla klienta firmowego
+TC-1901,ADMIN - płatność kartą dla klienta firmowego
+TC-1902,PROMOCJE - płatność kartą dla klienta firmowego
+TC-1903,REKLAMACJE - płatność kartą dla klienta firmowego
+TC-1904,INTEGRACJE - płatność kartą dla klienta firmowego
+TC-1905,IMPORT - płatność kartą dla klienta firmowego
+TC-1906,UŻYTKOWNICY - płatność kartą dla klienta firmowego
+TC-1907,UPRAWNIENIA - płatność kartą dla klienta firmowego
+TC-1908,KASA - autoryzacja płatności dla klienta firmowego
+TC-1909,BLIK - autoryzacja płatności dla klienta firmowego
+TC-1910,CRM - autoryzacja płatności dla klienta firmowego
+TC-1911,KSeF - autoryzacja płatności dla klienta firmowego
+TC-1912,CHECKOUT - autoryzacja płatności dla klienta firmowego
+TC-1913,KOSZYK - autoryzacja płatności dla klienta firmowego
+TC-1914,ADMIN - autoryzacja płatności dla klienta firmowego
+TC-1915,RAPORTY - autoryzacja płatności dla klienta firmowego
+TC-1916,REKLAMACJE - autoryzacja płatności dla klienta firmowego
+TC-1917,DOSTAWY - autoryzacja płatności dla klienta firmowego
+TC-1918,IMPORT - autoryzacja płatności dla klienta firmowego
+TC-1919,EKSPORT - autoryzacja płatności dla klienta firmowego
+TC-1920,UPRAWNIENIA - autoryzacja płatności dla klienta firmowego
+TC-1921,POS - rozliczenie płatności dla klienta firmowego
+TC-1922,BLIK - rozliczenie płatności dla klienta firmowego
+TC-1923,SAP - rozliczenie płatności dla klienta firmowego
+TC-1924,KSeF - rozliczenie płatności dla klienta firmowego
+TC-1925,MAGAZYN - rozliczenie płatności dla klienta firmowego
+TC-1926,KOSZYK - rozliczenie płatności dla klienta firmowego
+TC-1927,API - rozliczenie płatności dla klienta firmowego
+TC-1928,RAPORTY - rozliczenie płatności dla klienta firmowego
+TC-1929,PROMOCJE - rozliczenie płatności dla klienta firmowego
+TC-1930,DOSTAWY - rozliczenie płatności dla klienta firmowego
+TC-1931,INTEGRACJE - rozliczenie płatności dla klienta firmowego
+TC-1932,EKSPORT - rozliczenie płatności dla klienta firmowego
+TC-1933,UŻYTKOWNICY - rozliczenie płatności dla klienta firmowego
+TC-1934,POS - księgowanie faktury dla klienta firmowego
+TC-1935,KASA - księgowanie faktury dla klienta firmowego
+TC-1936,SAP - księgowanie faktury dla klienta firmowego
+TC-1937,CRM - księgowanie faktury dla klienta firmowego
+TC-1938,MAGAZYN - księgowanie faktury dla klienta firmowego
+TC-1939,CHECKOUT - księgowanie faktury dla klienta firmowego
+TC-1940,API - księgowanie faktury dla klienta firmowego
+TC-1941,ADMIN - księgowanie faktury dla klienta firmowego
+TC-1942,PROMOCJE - księgowanie faktury dla klienta firmowego
+TC-1943,REKLAMACJE - księgowanie faktury dla klienta firmowego
+TC-1944,INTEGRACJE - księgowanie faktury dla klienta firmowego
+TC-1945,IMPORT - księgowanie faktury dla klienta firmowego
+TC-1946,UŻYTKOWNICY - księgowanie faktury dla klienta firmowego
+TC-1947,UPRAWNIENIA - księgowanie faktury dla klienta firmowego
+TC-1948,KASA - wysłanie faktury do KSeF dla klienta firmowego
+TC-1949,BLIK - wysłanie faktury do KSeF dla klienta firmowego
+TC-1950,CRM - wysłanie faktury do KSeF dla klienta firmowego
+TC-1951,KSeF - wysłanie faktury do KSeF dla klienta firmowego
+TC-1952,CHECKOUT - wysłanie faktury do KSeF dla klienta firmowego
+TC-1953,KOSZYK - wysłanie faktury do KSeF dla klienta firmowego
+TC-1954,ADMIN - wysłanie faktury do KSeF dla klienta firmowego
+TC-1955,RAPORTY - wysłanie faktury do KSeF dla klienta firmowego
+TC-1956,REKLAMACJE - wysłanie faktury do KSeF dla klienta firmowego
+TC-1957,DOSTAWY - wysłanie faktury do KSeF dla klienta firmowego
+TC-1958,IMPORT - wysłanie faktury do KSeF dla klienta firmowego
+TC-1959,EKSPORT - wysłanie faktury do KSeF dla klienta firmowego
+TC-1960,UPRAWNIENIA - wysłanie faktury do KSeF dla klienta firmowego
+TC-1961,POS - korekta faktury sprzedażowej dla klienta firmowego
+TC-1962,BLIK - korekta faktury sprzedażowej dla klienta firmowego
+TC-1963,SAP - korekta faktury sprzedażowej dla klienta firmowego
+TC-1964,KSeF - korekta faktury sprzedażowej dla klienta firmowego
+TC-1965,MAGAZYN - korekta faktury sprzedażowej dla klienta firmowego
+TC-1966,KOSZYK - korekta faktury sprzedażowej dla klienta firmowego
+TC-1967,API - korekta faktury sprzedażowej dla klienta firmowego
+TC-1968,RAPORTY - korekta faktury sprzedażowej dla klienta firmowego
+TC-1969,PROMOCJE - korekta faktury sprzedażowej dla klienta firmowego
+TC-1970,DOSTAWY - korekta faktury sprzedażowej dla klienta firmowego
+TC-1971,INTEGRACJE - korekta faktury sprzedażowej dla klienta firmowego
+TC-1972,EKSPORT - korekta faktury sprzedażowej dla klienta firmowego
+TC-1973,UŻYTKOWNICY - korekta faktury sprzedażowej dla klienta firmowego
+TC-1974,POS - utworzenie zamówienia dla klienta firmowego
+TC-1975,KASA - utworzenie zamówienia dla klienta firmowego
+TC-1976,SAP - utworzenie zamówienia dla klienta firmowego
+TC-1977,CRM - utworzenie zamówienia dla klienta firmowego
+TC-1978,MAGAZYN - utworzenie zamówienia dla klienta firmowego
+TC-1979,CHECKOUT - utworzenie zamówienia dla klienta firmowego
+TC-1980,API - utworzenie zamówienia dla klienta firmowego
+TC-1981,ADMIN - utworzenie zamówienia dla klienta firmowego
+TC-1982,PROMOCJE - utworzenie zamówienia dla klienta firmowego
+TC-1983,REKLAMACJE - utworzenie zamówienia dla klienta firmowego
+TC-1984,INTEGRACJE - utworzenie zamówienia dla klienta firmowego
+TC-1985,IMPORT - utworzenie zamówienia dla klienta firmowego
+TC-1986,UŻYTKOWNICY - utworzenie zamówienia dla klienta firmowego
+TC-1987,UPRAWNIENIA - utworzenie zamówienia dla klienta firmowego
+TC-1988,KASA - edycja zamówienia dla klienta firmowego
+TC-1989,BLIK - edycja zamówienia dla klienta firmowego
+TC-1990,CRM - edycja zamówienia dla klienta firmowego
+TC-1991,KSeF - edycja zamówienia dla klienta firmowego
+TC-1992,CHECKOUT - edycja zamówienia dla klienta firmowego
+TC-1993,KOSZYK - edycja zamówienia dla klienta firmowego
+TC-1994,ADMIN - edycja zamówienia dla klienta firmowego
+TC-1995,RAPORTY - edycja zamówienia dla klienta firmowego
+TC-1996,REKLAMACJE - edycja zamówienia dla klienta firmowego
+TC-1997,DOSTAWY - edycja zamówienia dla klienta firmowego
+TC-1998,IMPORT - edycja zamówienia dla klienta firmowego
+TC-1999,EKSPORT - edycja zamówienia dla klienta firmowego
+TC-2000,UPRAWNIENIA - edycja zamówienia dla klienta firmowego
