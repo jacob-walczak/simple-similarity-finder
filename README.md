@@ -33,6 +33,7 @@ Najwazniejsze ustawienia sa w `src/main/resources/application.yaml`:
 ```yaml
 similarity-finder:
   csv-path: classpath:test-cases.csv
+  embedding-cache-path: data/test-case-embeddings.json
   result-limit: 10
   semantic-weight: 0.65
   lexical-weight: 0.35
@@ -41,6 +42,7 @@ similarity-finder:
 ```
 
 - `csv-path` - lokalizacja CSV z Test Case'ami.
+- `embedding-cache-path` - lokalizacja pliku cache embeddingow Test Case'ow.
 - `result-limit` - maksymalna liczba wynikow.
 - `semantic-weight` - waga wyniku semantycznego.
 - `lexical-weight` - waga wyniku leksykalnego.
@@ -103,10 +105,14 @@ semanticScore * semanticWeight
 
 `lexicalScore` uwzglednia exact normalized match, wystapienie calej frazy w nazwie oraz overlap tokenow.
 
+## Embedding cache
+
+Cache embeddingow jest zapisywany domyslnie w `data/test-case-embeddings.json`.
+
+Pierwszy start generuje embeddingi dla Test Case'ow z CSV i zapisuje plik cache. Kolejne starty wczytuja embeddingi z cache, a Ollama jest uzywana tylko dla nowych albo zmienionych Test Case'ow. Zmiana skonfigurowanego modelu embeddingowego powoduje pelne odswiezenie cache.
+
 ## Ograniczenia MVP
 
-- embeddingi sa liczone ponownie przy kazdym uruchomieniu,
 - nie ma trwalego vector store,
-- nie ma cache embeddingow,
 - przy okolo 2000 rekordow wszystko jest trzymane w RAM,
-- w przyszlosci mozna dodac cache embeddingow na dysku.
+- cache embeddingow to prosty plik JSON bez zewnetrznej bazy danych.

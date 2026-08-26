@@ -5,6 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 @ConfigurationProperties(prefix = "similarity-finder")
 public record SimilarityFinderProperties(
 		String csvPath,
+		String embeddingCachePath,
 		int resultLimit,
 		double semanticWeight,
 		double lexicalWeight,
@@ -16,6 +17,9 @@ public record SimilarityFinderProperties(
 	public SimilarityFinderProperties {
 		if (csvPath == null || csvPath.isBlank()) {
 			throw new IllegalArgumentException("similarity-finder.csv-path must not be blank");
+		}
+		if (embeddingCachePath == null || embeddingCachePath.isBlank()) {
+			throw new IllegalArgumentException("similarity-finder.embedding-cache-path must not be blank");
 		}
 		if (resultLimit <= 0) {
 			throw new IllegalArgumentException("similarity-finder.result-limit must be greater than 0");
